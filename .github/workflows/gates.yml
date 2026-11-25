@@ -1,0 +1,28 @@
+# 18-gate acceptance checklist (AGENTS.md, ICD203 pp. 33-35).
+# Runs on every push and pull request. A FAIL blocks the merge;
+# MANUAL gates (D2, E3) are confirmed by a human, not by the scan.
+name: gates
+
+on: [push, pull_request]
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile all Python
+        run: python3 -m py_compile $(find readingroom tests tools -name "*.py")
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -v
+      - name: 18-gate acceptance checklist
+        # library/ is a verbatim archive of the blog's published posts
+        # (577 files reproduced faithfully from the 2026-11-25 scrape).
+        # The linter's heuristics flag quoted content inside it, so it
+        # is excluded from the gates. The repo's own artifacts (README,
+        # COLLABORATION.md, AGENTS.md, code, tests, index.json) are
+        # gated. See AGENTS.md §16 and the companion app repo's docs/
+        # rule, which does the same for its scrape file.
+        run: python3 tools/aequitas_gate_linter.py . --exclude library
