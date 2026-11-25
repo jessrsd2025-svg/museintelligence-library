@@ -1,0 +1,20 @@
+---
+title: "U.S. Naval Forces Central Command- Area of Responsibility"
+date: 2024-01-19T14:45:10
+url: "https://jessrsdincyahoocom.wordpress.com/2024/01/19/u-s-naval-forces-central-command-area-of-responsibility/"
+source_id: SRC-WP-88
+source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/19/u-s-naval-forces-central-command-area-of-responsibility/"
+retrieval_timestamp: 2026-11-25T18:01:10Z
+---
+
+![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/01/fleet-5.gif?w=155)
+
+
+U.S. Fifth Fleet (C5F), an Echelon III command, supports all naval operations in the U.S. Central Command (CENTCOM) area of responsibility (AOR). It encompasses about 7.5 million square miles and includes the Arabian Gulf, Red Sea, Gulf of Oman, and parts of the Indian Ocean. This expanse, comprised of 25 countries, includes Bahrain, Saudi Arabia, United Arab Emirates, Iran, Iraq, Pakistan, and Somalia.
+The usual force of 20-plus ships, with about 1,000 people ashore and 15,000 afloat, consists of a Carrier Battle Group, Amphibious Ready Group, combat aircraft, and other support units and ships. Fifth Fleet exemplifies the Department of the Navy’s strategic concept “Forward… From the sea,” by providing the ability to respond immediately to any emerging crisis from peace-keeping and humanitarian missions to asserting necessary force in regional conflicts.
+The U.S. FIFTH Fleet was reestablished July 1, 1995 in the Central Command area of responsibility as a second responsibility of Commander, U.S. Naval Forces Central Command. Vice Admiral Scott Redd became the fifth Commander of FIFTH Fleet followed by Vice Admiral Thomas B. Fargo in June 1996. Vice Admiral Charles W. Moore, Jr. assumed command of FIFTH Fleet on July 27, 1998.
+The FIFTH Fleet existed only in history for 48 years after it was disestablished in January 1947. The Commander in Chief, United States Fleet, Admiral Ernest King, established numbered fleets March 15, 1943, as a basis for task force designations and for specific geographic areas. On that date, the existing South Pacific Force, commanded by Vice Admiral William Halsey, became the THIRD Fleet, and the title FIFTH Fleet was designated for a fleet that would operate under the Pacific Fleet.
+
+Learn more: LinkedIn [https://lnkd.in/e47RCVKh](https://lnkd.in/e47RCVKh)
+Global Security.org [https://www.globalsecurity.org/index.html](https://www.globalsecurity.org/index.html)
+[#USForces](https://www.linkedin.com/feed/hashtag/?keywords=usforces&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#CENTCOM](https://www.linkedin.com/feed/hashtag/?keywords=centcom&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368)[#USFifthFleet](https://www.linkedin.com/feed/hashtag/?keywords=usfifthfleet&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#C5F](https://www.linkedin.com/feed/hashtag/?keywords=c5f&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#AOR](https://www.linkedin.com/feed/hashtag/?keywords=aor&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#CobatOperation](https://www.linkedin.com/feed/hashtag/?keywords=cobatoperation&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#HumanitariAnassistance](https://www.linkedin.com/feed/hashtag/?keywords=humanitarianassistance&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#MiddleEast](https://www.linkedin.com/feed/hashtag/?keywords=middleeast&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#GlobalSecurity](https://www.linkedin.com/feed/hashtag/?keywords=globalsecurity&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#USSKearSarge](https://www.linkedin.com/feed/hashtag/?keywords=usskearsarge&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#usmc](https://www.linkedin.com/feed/hashtag/?keywords=usmc&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368) [#22ndmeu](https://www.linkedin.com/feed/hashtag/?keywords=22ndmeu&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7154118290921914368)
