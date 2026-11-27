@@ -4,7 +4,7 @@ date: 2026-07-05T15:41:23
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/05/unmanned_news-readingroom-artifact-libertas_intelligence_lattice_intel_spine_v6_agentic_ooda_map-gpt-5-5/"
 source_id: SRC-WP-16399
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/05/unmanned_news-readingroom-artifact-libertas_intelligence_lattice_intel_spine_v6_agentic_ooda_map-gpt-5-5/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

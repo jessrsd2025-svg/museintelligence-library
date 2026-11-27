@@ -4,7 +4,7 @@ date: 2026-08-13T13:54:26
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/13/unmanned_news-readingroom-muse-glimmer-30b-gpt-5-6-sol-neo4j-arxiv-pdf-libertas-sandbox-repository-readme-md-libertas-v3-0-unified-intelligence-lattice/"
 source_id: SRC-WP-17030
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/13/unmanned_news-readingroom-muse-glimmer-30b-gpt-5-6-sol-neo4j-arxiv-pdf-libertas-sandbox-repository-readme-md-libertas-v3-0-unified-intelligence-lattice/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Project: Unmanned_News ReadingRoom / LIBERTAS Sandbox](https://www.linkedin.com/feed/update/urn:li:activity:7493665843847909376/)

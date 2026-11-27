@@ -4,7 +4,7 @@ date: 2026-09-07T12:26:41
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/07/unmanned_news-readingroom-rulechain-md-reasoning-modes-ooda-loop-in-motion-observe-%e2%86%92-orient-%e2%86%92-decide-%e2%86%92-a/"
 source_id: SRC-WP-17481
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/07/unmanned_news-readingroom-rulechain-md-reasoning-modes-ooda-loop-in-motion-observe-%e2%86%92-orient-%e2%86%92-decide-%e2%86%92-a/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [[ARFC] Update the Asset Onboarding Framework](https://governance.aave.com/t/arfc-update-the-asset-onboarding-framework/15629)Author: Marc Zeller – ACI ( Aave Chan Initiative)markdown

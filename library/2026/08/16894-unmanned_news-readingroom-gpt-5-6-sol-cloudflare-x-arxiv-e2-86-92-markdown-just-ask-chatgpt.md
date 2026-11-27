@@ -4,7 +4,7 @@ date: 2026-08-06T12:39:42
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/06/unmanned_news-readingroom-gpt-5-6-sol-cloudflare-x-arxiv-%e2%86%92-markdown-just-ask-chatgpt/"
 source_id: SRC-WP-16894
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/06/unmanned_news-readingroom-gpt-5-6-sol-cloudflare-x-arxiv-%e2%86%92-markdown-just-ask-chatgpt/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 *A cloud-native research pipeline combines Cloudflare Workers and arXiv data to transform academic papers into secure, provenance-bearing Markdown. This setup uses cryptographic hashing for source verification, prepares text for graph-based retrieval (GraphRAG), and screens content through safety interdiction gates while treating semantic similarity strictly as a discovery tool.*

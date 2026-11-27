@@ -4,7 +4,7 @@ date: 2026-07-13T13:56:44
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/13/unamanned_news-readingroom-gpt-5-6-sol-claude-fable-5-adaptive-reasoning-controller-for-deterministic-act-mixture-of-agents/"
 source_id: SRC-WP-16531
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/13/unamanned_news-readingroom-gpt-5-6-sol-claude-fable-5-adaptive-reasoning-controller-for-deterministic-act-mixture-of-agents/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQHKI9jMakqhoQ/article-cover_image-shrink_600_2000/B4EZ9L_C7yHwAM-/0/1783686246555?e=1785369600&v=beta&t=VrfL42NoL0Rfh9kHL_JT2esgZyKcXhdYpId16GELgxo)

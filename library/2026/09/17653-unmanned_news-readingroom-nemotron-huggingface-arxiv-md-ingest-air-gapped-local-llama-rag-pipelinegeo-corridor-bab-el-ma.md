@@ -4,7 +4,7 @@ date: 2026-09-14T15:08:18
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/14/unmanned_news-readingroom-nemotron-huggingface-arxiv-md-ingest-air-gapped-local-llama-rag-pipelinegeo-corridor-bab-el-maneb/"
 source_id: SRC-WP-17653
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/14/unmanned_news-readingroom-nemotron-huggingface-arxiv-md-ingest-air-gapped-local-llama-rag-pipelinegeo-corridor-bab-el-maneb/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [jessrsd’s Blog](https://jessrsdincyahoocom.wordpress.com/)

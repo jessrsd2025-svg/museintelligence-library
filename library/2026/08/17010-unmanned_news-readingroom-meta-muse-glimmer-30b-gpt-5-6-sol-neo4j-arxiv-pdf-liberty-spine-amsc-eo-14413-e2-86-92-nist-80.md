@@ -4,7 +4,7 @@ date: 2026-08-11T11:58:35
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/11/unmanned_news-readingroom-meta-muse-glimmer-30b-gpt-5-6-sol-neo4j-arxiv-pdf-liberty-spine-amsc-eo-14413-%e2%86%92-nist-800-53-%e2%86%92-fedramp-%e2%86%92-canonicalization/"
 source_id: SRC-WP-17010
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/11/unmanned_news-readingroom-meta-muse-glimmer-30b-gpt-5-6-sol-neo4j-arxiv-pdf-liberty-spine-amsc-eo-14413-%e2%86%92-nist-800-53-%e2%86%92-fedramp-%e2%86%92-canonicalization/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Libertas Sandbox Repository*** [README.md](http://readme.md/) / LIBERTAS v3.0 Unified Intelligence Lattice, Threat Actor Domain Lattice, and Governance Precedence Hierarchy PDF — all in parallel.

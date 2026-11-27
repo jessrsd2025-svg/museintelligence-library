@@ -4,7 +4,7 @@ date: 2026-09-05T14:35:09
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/05/unmanned_news-readingroom-renderings-of-strategic-dynamics-artifact-provenance-first-maritime-location-intelligence-web3-protocol-architecture-geographic-ooda-external-osint-corpora-ir/"
 source_id: SRC-WP-17461
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/05/unmanned_news-readingroom-renderings-of-strategic-dynamics-artifact-provenance-first-maritime-location-intelligence-web3-protocol-architecture-geographic-ooda-external-osint-corpora-ir/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Web3 protocol architecture // Geographic OODA //external OSINT corpora //IRGC Oil Trade Routes analysis and decentralized finance governance proposals World Liberty Financial Aave v3 Instance Proposal***

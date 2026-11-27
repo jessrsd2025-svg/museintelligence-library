@@ -4,7 +4,7 @@ date: 2026-08-26T11:42:06
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/26/unmanned_news-readingroom-libertas-veritas-aequitas/"
 source_id: SRC-WP-16728
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/26/unmanned_news-readingroom-libertas-veritas-aequitas/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 August 25, 2026

@@ -4,7 +4,7 @@ date: 2026-08-05T12:52:38
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/05/unmanned_news-readingroom-arxiv-papers-to-markdown-gpt-5-6-sol-aequitas-silent-upgrade-interdiction-gate/"
 source_id: SRC-WP-16882
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/05/unmanned_news-readingroom-arxiv-papers-to-markdown-gpt-5-6-sol-aequitas-silent-upgrade-interdiction-gate/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The AEQUITAS Gate is the mandatory boundary between analytical reasoning and persistent knowledge mutation. Its central invariant is:

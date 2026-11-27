@@ -4,7 +4,7 @@ date: 2026-07-18T13:20:51
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/18/unmanned_news-readingroom-veritas-principles-for-incorporating-the-aequitas-deterministic-verification-layer-strait-of-hormuz-gulf-of-oman-and-persian-gulfdoctrine-libertas-veritas-aequitasmo/"
 source_id: SRC-WP-16599
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/18/unmanned_news-readingroom-veritas-principles-for-incorporating-the-aequitas-deterministic-verification-layer-strait-of-hormuz-gulf-of-oman-and-persian-gulfdoctrine-libertas-veritas-aequitasmo/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***VERITAS principles for incorporating the AEQUITAS deterministic verification layer*** ***OSINT Analytical Research FrameworkClassification:***

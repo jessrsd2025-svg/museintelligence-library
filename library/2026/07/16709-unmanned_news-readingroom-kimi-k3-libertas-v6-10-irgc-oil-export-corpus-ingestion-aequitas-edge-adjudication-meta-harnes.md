@@ -4,7 +4,7 @@ date: 2026-07-25T12:37:59
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/25/unmanned_news-readingroom-kimi-k3-libertas-v6-10-irgc-oil-export-corpus-ingestion-aequitas-edge-adjudication-meta-harness-doctrinal/"
 source_id: SRC-WP-16709
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/25/unmanned_news-readingroom-kimi-k3-libertas-v6-10-irgc-oil-export-corpus-ingestion-aequitas-edge-adjudication-meta-harness-doctrinal/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Favicon for openai](https://openrouter.ai/images/icons/OpenAI.svg)

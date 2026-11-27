@@ -4,7 +4,7 @@ date: 2026-09-24T12:34:23
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/24/unmanned_news-readingroom-quarantined-md-markdown-code-as-law-rubygems-quarantined-ingestion-record/"
 source_id: SRC-WP-17924
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/24/unmanned_news-readingroom-quarantined-md-markdown-code-as-law-rubygems-quarantined-ingestion-record/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 HuggingFace — canonicalizes every JSON chunk with RFC 8785 and generates SHA-256 digests. Neo4j sandbox quarantine mutation — isolates only SOURCE_ASSERTION / UNVERIFIED / RED_HOLLOW nodes and prevents causal relationships from being created

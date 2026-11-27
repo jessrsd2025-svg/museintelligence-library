@@ -4,7 +4,7 @@ date: 2026-07-20T12:48:28
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/20/unmanned_news-readingroom-kimi-k3-strait_of_hormuz_theater_layer-geojson_spatial_fabric/"
 source_id: SRC-WP-16620
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/20/unmanned_news-readingroom-kimi-k3-strait_of_hormuz_theater_layer-geojson_spatial_fabric/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/07/image-2.png?w=256)

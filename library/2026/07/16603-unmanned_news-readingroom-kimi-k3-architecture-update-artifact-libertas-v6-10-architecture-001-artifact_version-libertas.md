@@ -4,7 +4,7 @@ date: 2026-07-20T12:04:56
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/20/unmanned_news-readingroom-kimi-k3-architecture-update-artifact-libertas-v6-10-architecture-001-artifact_version-libertas_v6-10/"
 source_id: SRC-WP-16603
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/20/unmanned_news-readingroom-kimi-k3-architecture-update-artifact-libertas-v6-10-architecture-001-artifact_version-libertas_v6-10/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Obsidian deployment `_LOCATION_INTELLIGENCE/Cloudflare_Location_Intelligence_Deployment.md`.***

@@ -4,7 +4,7 @@ date: 2026-08-18T12:45:34
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/18/unmanned_news-raedingroom-arxiv-md-ingest-v1-ingestion-contract-variant-air-gapped-local-llama-rag-pipeline-compliance-zero-external-call-data-processing-provenance-preservation-imp/"
 source_id: SRC-WP-17132
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/18/unmanned_news-raedingroom-arxiv-md-ingest-v1-ingestion-contract-variant-air-gapped-local-llama-rag-pipeline-compliance-zero-external-call-data-processing-provenance-preservation-imp/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Unmanned_News ReadingRoom AEQUITAS Infrastructure Attribution Guardrails — Command & Control ($C2$) Relay Tier (Parallel Infrastructure Branches)

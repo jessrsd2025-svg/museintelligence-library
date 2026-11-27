@@ -4,7 +4,7 @@ date: 2026-07-24T13:14:32
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/24/unammed_news-readingroom-libertas-kimi-k3-american-science-cloud-amsc-x-irgc-triptych-friction-notes-analytical-overlay-meta-agentic-native-workflow/"
 source_id: SRC-WP-16665
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/24/unammed_news-readingroom-libertas-kimi-k3-american-science-cloud-amsc-x-irgc-triptych-friction-notes-analytical-overlay-meta-agentic-native-workflow/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **IRGC CARTOGRAPHY MAP — STRATEGIC DYNAMICS & PROXY NETWORKS**

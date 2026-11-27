@@ -4,7 +4,7 @@ date: 2026-07-22T12:45:51
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/22/unmanned_news-readingroom-kimi-k3-claude-fable-5-core-layer-red_sea_theater_strait_of_hormuz_theater_layer/"
 source_id: SRC-WP-16639
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/22/unmanned_news-readingroom-kimi-k3-claude-fable-5-core-layer-red_sea_theater_strait_of_hormuz_theater_layer/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Llama 4 Maverick

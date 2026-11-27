@@ -4,7 +4,7 @@ date: 2026-07-29T12:11:03
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/29/unmanned_news-readinroom-gpt-5-6-sol-libertas-v6-10-silent-upgrade-gate-006-chain-md-chain-of-mindset-reasoning-with-adaptive-cognitive-modeslibertas-v6-10-strategic-dynamics-cartography-agen/"
 source_id: SRC-WP-16744
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/29/unmanned_news-readinroom-gpt-5-6-sol-libertas-v6-10-silent-upgrade-gate-006-chain-md-chain-of-mindset-reasoning-with-adaptive-cognitive-modeslibertas-v6-10-strategic-dynamics-cartography-agen/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***LIBERTAS v6.10 Strategic Dynamics Cartography & AGENTS.md Operational Specification***: GitHub Actions workflow (paste into `.github/workflows/aequitas-pr-check.yml`

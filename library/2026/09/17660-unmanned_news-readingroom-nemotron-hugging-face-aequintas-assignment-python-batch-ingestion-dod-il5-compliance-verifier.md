@@ -4,7 +4,7 @@ date: 2026-09-15T12:13:58
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/15/unmanned_news-readingroom-nemotron-hugging-face-aequintas-assignment-python-batch-ingestion-dod-il5-compliance-verifier/"
 source_id: SRC-WP-17660
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/15/unmanned_news-readingroom-nemotron-hugging-face-aequintas-assignment-python-batch-ingestion-dod-il5-compliance-verifier/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **AEQUITAS Assignment:** Nemotron_3_HuggingFace

@@ -4,7 +4,7 @@ date: 2026-09-13T13:21:33
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/13/unmanned_news-readingroom-red-x-quarantine-libertas-v6-10-irgc-oil-corpus-edge-adjudication-threat-infastructure-prohibited-epistemic-promotion-quarantine-md/"
 source_id: SRC-WP-17612
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/13/unmanned_news-readingroom-red-x-quarantine-libertas-v6-10-irgc-oil-corpus-edge-adjudication-threat-infastructure-prohibited-epistemic-promotion-quarantine-md/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)***Renderings of Strategic Dynamics***

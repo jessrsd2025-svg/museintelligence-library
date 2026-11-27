@@ -4,7 +4,7 @@ date: 2026-07-24T14:31:06
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/24/unmanned_news-readingroom-meta-agentic-harness-aequitas-adjudication/"
 source_id: SRC-WP-16689
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/24/unmanned_news-readingroom-meta-agentic-harness-aequitas-adjudication/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ## Renderings of Strategic Dynamics GPT-5.6 Sol jessrsd’s Blog Kimi K3 CLOUDFLARE SERVERLESS ARCHITECTURE.pdf

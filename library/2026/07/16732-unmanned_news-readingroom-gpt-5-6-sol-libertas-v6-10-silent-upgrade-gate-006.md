@@ -4,7 +4,7 @@ date: 2026-07-27T13:12:39
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/27/unmanned_news-readingroom-gpt-5-6-sol-libertas-v6-10-silent-upgrade-gate-006/"
 source_id: SRC-WP-16732
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/27/unmanned_news-readingroom-gpt-5-6-sol-libertas-v6-10-silent-upgrade-gate-006/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

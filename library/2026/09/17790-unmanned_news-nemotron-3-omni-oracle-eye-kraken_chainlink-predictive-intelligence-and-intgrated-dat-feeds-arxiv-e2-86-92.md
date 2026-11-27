@@ -4,7 +4,7 @@ date: 2026-09-18T11:59:05
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/18/unmanned_news-nemotron-3-omni-oracle-eye-kraken_chainlink-predictive-intelligence-and-intgrated-dat-feeds-arxiv-%e2%86%92-markdown-%e2%86%92-neo4j-%e2%86%92-hugging-face-%e2%86%92-readingroom-ren/"
 source_id: SRC-WP-17790
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/18/unmanned_news-nemotron-3-omni-oracle-eye-kraken_chainlink-predictive-intelligence-and-intgrated-dat-feeds-arxiv-%e2%86%92-markdown-%e2%86%92-neo4j-%e2%86%92-hugging-face-%e2%86%92-readingroom-ren/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

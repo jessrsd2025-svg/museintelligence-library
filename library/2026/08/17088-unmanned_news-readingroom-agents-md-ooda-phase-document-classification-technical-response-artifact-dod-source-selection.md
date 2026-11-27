@@ -4,7 +4,7 @@ date: 2026-08-15T12:01:37
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/15/unmanned_news-readingroom-agents-md-ooda-phase-document-classification-technical-response-artifact-dod-source-selection-call-for-tools-system-designationarxiv-md-ingest-v1-s/"
 source_id: SRC-WP-17088
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/15/unmanned_news-readingroom-agents-md-ooda-phase-document-classification-technical-response-artifact-dod-source-selection-call-for-tools-system-designationarxiv-md-ingest-v1-s/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Renderings of Strategic Dynamics “Libertas” – – Muse Glimmer 30B

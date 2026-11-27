@@ -4,7 +4,7 @@ date: 2026-08-30T12:47:38
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/30/unamanned_news-readingroom-aequitas-rulechain-interdiction-gate-strategic-implications-of-irgc-global-activities/"
 source_id: SRC-WP-17301
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/30/unamanned_news-readingroom-aequitas-rulechain-interdiction-gate-strategic-implications-of-irgc-global-activities/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 # variants.md — IRGC / WLFI Context Signals (LIBERTAS Quarantine Variants)

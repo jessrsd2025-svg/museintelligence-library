@@ -4,7 +4,7 @@ date: 2026-09-22T12:23:47
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/22/unmanned_news-readingroom-arxiv-md-ingest-harness-directory-setup/"
 source_id: SRC-WP-17880
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/22/unmanned_news-readingroom-arxiv-md-ingest-harness-directory-setup/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ```

@@ -4,7 +4,7 @@ date: 2026-07-14T13:51:53
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/14/unmanned_news-readingroom-gpt-5-6-sol-libertas-intelligence-lattice-v6type-repository-readmeartifact_version-libertas_v6-1doctrine-libertas_veritas_aequitasworkflow-agentic_o/"
 source_id: SRC-WP-16554
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/14/unmanned_news-readingroom-gpt-5-6-sol-libertas-intelligence-lattice-v6type-repository-readmeartifact_version-libertas_v6-1doctrine-libertas_veritas_aequitasworkflow-agentic_o/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - [[LIBERTAS_MASTER_INDEX]]

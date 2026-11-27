@@ -4,7 +4,7 @@ date: 2026-07-11T14:36:06
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/11/unmanned_news-readingroom-gpt-5-6-sol-openclaw-nemotron_v5_3_amsc-artifact-doctrine-libertas_veritas_aequitas-artifact-workflow-agentic_ooda/"
 source_id: SRC-WP-16499
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/11/unmanned_news-readingroom-gpt-5-6-sol-openclaw-nemotron_v5_3_amsc-artifact-doctrine-libertas_veritas_aequitas-artifact-workflow-agentic_ooda/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 LIBERTAS_RED_SEA_VAULT/

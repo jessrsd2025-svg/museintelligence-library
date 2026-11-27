@@ -4,7 +4,7 @@ date: 2026-09-04T12:25:15
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/04/unmanned_news-readingroom-arxiv-md-ingest-gemini-3-8-flash-libertas-wiki-renderings/"
 source_id: SRC-WP-17447
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/04/unmanned_news-readingroom-arxiv-md-ingest-gemini-3-8-flash-libertas-wiki-renderings/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Unmanned_News ReadingRoom arXiv to papers markdown Variants.md (IRGC Oil Corpus) Ingestion & Orientation Pipeline (Wiki/index.md)

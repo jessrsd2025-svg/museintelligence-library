@@ -4,7 +4,7 @@ date: 2026-08-21T13:38:19
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/21/unammed_news-readingroom-rulechain-md-2/"
 source_id: SRC-WP-17179
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/21/unammed_news-readingroom-rulechain-md-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM](https://www.linkedin.com/in/jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM)

@@ -4,7 +4,7 @@ date: 2026-08-22T12:14:14
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/22/unmanned_news-readingroom-architecture-md-seven-layer-harness-libertas-lattice/"
 source_id: SRC-WP-17211
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/22/unmanned_news-readingroom-architecture-md-seven-layer-harness-libertas-lattice/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM](https://www.linkedin.com/in/jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM)## Incident: Dark-Web Offer — “Account – Read-only – Kraken Panel”

@@ -4,7 +4,7 @@ date: 2026-08-09T11:13:52
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/09/unmanned_news-raedingroom-libertas-arxiv2md-metadata-v1-semantic-open-source-llama-aware-arxiv-ingestion-system/"
 source_id: SRC-WP-16958
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/09/unmanned_news-raedingroom-libertas-arxiv2md-metadata-v1-semantic-open-source-llama-aware-arxiv-ingestion-system/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***arXiv-to-Markdown ingestion contract Defense Intelligence Reqest for Peroposal Sources Sought Libertas PolyMarket Call for Tools***

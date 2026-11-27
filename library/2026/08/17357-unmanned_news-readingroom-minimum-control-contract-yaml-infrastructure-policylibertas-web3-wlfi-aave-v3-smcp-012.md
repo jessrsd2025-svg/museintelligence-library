@@ -4,7 +4,7 @@ date: 2026-08-31T13:12:55
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/31/unmanned_news-readingroom-minimum-control-contract-yaml-infrastructure-policylibertas-web3-wlfi-aave-v3-smcp-012/"
 source_id: SRC-WP-17357
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/31/unmanned_news-readingroom-minimum-control-contract-yaml-infrastructure-policylibertas-web3-wlfi-aave-v3-smcp-012/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Gemini 3.7 Flash***

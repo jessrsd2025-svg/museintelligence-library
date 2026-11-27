@@ -4,7 +4,7 @@ date: 2026-07-01T12:13:00
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/01/unmanned_news-readingroom-quantum-information-science-and-technology-counterintelligence-protection-team-qcpt-openclaw-nemotron-v5-3-x-amsc-core-layermode-osint-artifact-libertas_int/"
 source_id: SRC-WP-16309
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/01/unmanned_news-readingroom-quantum-information-science-and-technology-counterintelligence-protection-team-qcpt-openclaw-nemotron-v5-3-x-amsc-core-layermode-osint-artifact-libertas_int/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Executive Order 14413 of June 22, 2026

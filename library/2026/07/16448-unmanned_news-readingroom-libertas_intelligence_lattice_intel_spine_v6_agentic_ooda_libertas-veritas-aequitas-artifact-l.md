@@ -4,7 +4,7 @@ date: 2026-07-09T12:28:31
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/09/unmanned_news-readingroom-libertas_intelligence_lattice_intel_spine_v6_agentic_ooda_libertas-veritas-aequitas-artifact-libertas_collision_zone_cartography_mapping_v6_0/"
 source_id: SRC-WP-16448
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/09/unmanned_news-readingroom-libertas_intelligence_lattice_intel_spine_v6_agentic_ooda_libertas-veritas-aequitas-artifact-libertas_collision_zone_cartography_mapping_v6_0/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Favicon for openai](https://openrouter.ai/images/icons/OpenAI.svg)

@@ -4,7 +4,7 @@ date: 2026-08-04T12:02:56
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/04/unmanned_news-readingroom-aequitas-infrastructure-attribution-guardrails-command-control-c2-relay-tier-parallel-infrastructure-branches/"
 source_id: SRC-WP-16854
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/04/unmanned_news-readingroom-aequitas-infrastructure-attribution-guardrails-command-control-c2-relay-tier-parallel-infrastructure-branches/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Favicon for openai](https://openrouter.ai/images/icons/OpenAI.svg)

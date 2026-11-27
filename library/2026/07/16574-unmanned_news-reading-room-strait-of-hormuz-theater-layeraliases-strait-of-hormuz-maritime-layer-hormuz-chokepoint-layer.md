@@ -4,7 +4,7 @@ date: 2026-07-14T14:31:32
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/14/unmanned_news-reading-room-strait-of-hormuz-theater-layeraliases-strait-of-hormuz-maritime-layer-hormuz-chokepoint-layertype-location-intelligencefeature_set_id-geoset-hormuz-001/"
 source_id: SRC-WP-16574
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/14/unmanned_news-reading-room-strait-of-hormuz-theater-layeraliases-strait-of-hormuz-maritime-layer-hormuz-chokepoint-layertype-location-intelligencefeature_set_id-geoset-hormuz-001/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

@@ -4,7 +4,7 @@ date: 2026-07-30T13:31:00
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/30/unmanned_news-readingroom-u-s-department-of-state-generative-ai-playbook-july-2026enterprise-execution-analysis-libertas-architecture-integration/"
 source_id: SRC-WP-16779
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/30/unmanned_news-readingroom-u-s-department-of-state-generative-ai-playbook-july-2026enterprise-execution-analysis-libertas-architecture-integration/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

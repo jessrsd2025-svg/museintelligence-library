@@ -4,7 +4,7 @@ date: 2026-08-23T12:52:49
 url: "https://jessrsdincyahoocom.wordpress.com/2026/08/23/unmanned_news-readingroom-web3-gemini-3-7-flash-wlfi-%e2%86%94-aave-v3-instance-proposal-air-gapped-smcp-graphrag-edge-architecture/"
 source_id: SRC-WP-17236
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/08/23/unmanned_news-readingroom-web3-gemini-3-7-flash-wlfi-%e2%86%94-aave-v3-instance-proposal-air-gapped-smcp-graphrag-edge-architecture/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://media.licdn.com/dms/image/v2/D4E12AQFJzxxXCiisXg/article-inline_image-shrink_1000_1488/B4EaAuqJp_H0AI-/0/1787489198799?e=1788998400&v=beta&t=F_EUNDzs2yPEmVc20S-as_qPz55rVGvAIsZ_h0gXblY)

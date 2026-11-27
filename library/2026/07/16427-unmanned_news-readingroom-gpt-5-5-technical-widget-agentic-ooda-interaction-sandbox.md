@@ -4,7 +4,7 @@ date: 2026-07-06T13:11:36
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/06/unmanned_news-readingroom-gpt-5-5-technical-widget-agentic-ooda-interaction-sandbox/"
 source_id: SRC-WP-16427
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/06/unmanned_news-readingroom-gpt-5-5-technical-widget-agentic-ooda-interaction-sandbox/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 This embedded interaction sandbox models the Agentic OODA loop as a provenance-first, graph-anchored, multi-agent state machine.The widget is conceptual and OSINT-safe. It does not connect to real AmSC, OpenClaw, Neo4j, n8n, classified systems, operational telemetry, or government networks.It simulates how latency, node density, edge density, provenance integrity, semantic drift, and human-review thresholds affect loop stability, orientation confidence, and cascade-risk exposure.The governing principle remains:“The system does not treat reports as truth. It treats reports as claims requiring lineage.”

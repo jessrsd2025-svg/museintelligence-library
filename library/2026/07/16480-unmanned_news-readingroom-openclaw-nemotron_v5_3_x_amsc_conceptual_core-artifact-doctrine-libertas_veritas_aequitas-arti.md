@@ -4,7 +4,7 @@ date: 2026-07-10T12:50:36
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/10/unmanned_news-readingroom-openclaw-nemotron_v5_3_x_amsc_conceptual_core-artifact-doctrine-libertas_veritas_aequitas-artifact-workflow-agentic_ooda/"
 source_id: SRC-WP-16480
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/10/unmanned_news-readingroom-openclaw-nemotron_v5_3_x_amsc_conceptual_core-artifact-doctrine-libertas_veritas_aequitas-artifact-workflow-agentic_ooda/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

@@ -4,7 +4,7 @@ date: 2026-07-13T13:14:41
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/13/unmanned_news-readingroom-agentic-ooda-deterministic-phase-act-libertas_veritas_aequitas-multi-agent-consensus-llama-4-maverick-claude-fable-5-multi-agent-consensus/"
 source_id: SRC-WP-16518
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/13/unmanned_news-readingroom-agentic-ooda-deterministic-phase-act-libertas_veritas_aequitas-multi-agent-consensus-llama-4-maverick-claude-fable-5-multi-agent-consensus/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***“LIBERTAS_VERITAS_AEQUITAS”*** ***Multi-Agent Consensus Llama 4 Maverick “The deterministic ACT Multi Agent Consensus Phase***” [Claude Fable 5](https://openrouter.ai/anthropic/claude-fable-5)

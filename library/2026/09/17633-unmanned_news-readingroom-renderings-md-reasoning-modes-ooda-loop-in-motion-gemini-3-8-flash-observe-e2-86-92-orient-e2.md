@@ -4,7 +4,7 @@ date: 2026-09-14T13:05:50
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/14/unmanned_news-readingroom-renderings-md-reasoning-modes-ooda-loop-in-motion-gemini-3-8-flash-observe-%e2%86%92-orient-%e2%86%92-decide/"
 source_id: SRC-WP-17633
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/14/unmanned_news-readingroom-renderings-md-reasoning-modes-ooda-loop-in-motion-gemini-3-8-flash-observe-%e2%86%92-orient-%e2%86%92-decide/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Unmanned_News ReadingRoom:[ RuleCHAIN.md Reasoning Modes OODA loop in motion Gemini 3.8 Flash — Observe → Orient → Decide → Act —](https://media.licdn.com/dms/image/v2/D4E12AQHvdwq3wxaYZQ/article-cover_image-shrink_180_320/B4EaCBEigiI8AU-/0/1788871849977?e=1790812800&v=beta&t=6HIQm1dI9NZ89wL9vN5ZVtTB9kUx2Pkxy5lAY1X5RVU)

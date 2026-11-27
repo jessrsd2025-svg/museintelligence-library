@@ -4,7 +4,7 @@ date: 2026-09-28T13:16:47
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/28/unmanned_news-readingroom-openrouterartifact-libertas-rubygems-quarantine-findings-glm-5-3-flash/"
 source_id: SRC-WP-18010
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/28/unmanned_news-readingroom-openrouterartifact-libertas-rubygems-quarantine-findings-glm-5-3-flash/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Unmanned_News ReadingRoom “Law Enforcement Only” Neo4j Quarantined.md: Code as Law Quarantined Ingestion Record RFC 8785 //JSON Canonicalization Scheme (JCS) RubyGems 2026 event Markdown is Code

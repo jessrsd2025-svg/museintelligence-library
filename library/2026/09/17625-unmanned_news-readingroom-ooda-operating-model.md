@@ -4,7 +4,7 @@ date: 2026-09-13T13:44:30
 url: "https://jessrsdincyahoocom.wordpress.com/2026/09/13/unmanned_news-readingroom-ooda-operating-model/"
 source_id: SRC-WP-17625
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/09/13/unmanned_news-readingroom-ooda-operating-model/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Unmanned_News ReadingRoom: Rejected arXiv-to-Markdown

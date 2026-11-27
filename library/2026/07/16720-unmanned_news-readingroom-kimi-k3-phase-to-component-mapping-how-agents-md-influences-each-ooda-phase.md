@@ -4,7 +4,7 @@ date: 2026-07-27T12:25:30
 url: "https://jessrsdincyahoocom.wordpress.com/2026/07/27/unmanned_news-readingroom-kimi-k3-phase-to-component-mapping-how-agents-md-influences-each-ooda-phase/"
 source_id: SRC-WP-16720
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/07/27/unmanned_news-readingroom-kimi-k3-phase-to-component-mapping-how-agents-md-influences-each-ooda-phase/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Unmanned_News ReadingRoom Kimi K3 Phase-to-Component Mapping: How [AGENTS.md](http://agents.md/) influences each OODA phase
