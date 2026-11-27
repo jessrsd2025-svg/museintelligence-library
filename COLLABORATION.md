@@ -5,9 +5,10 @@
   and the companion app (`museintelligence-app`)
 - **Status:** Working record
 - **Sources:**
-  - `SRC-WP-SCRAPE-2026-11-25` — the full public scrape of
-    jessrsdincyahoocom.wordpress.com (577 published posts) —
-    retrieved 2026-11-25T18:01:10Z — human-reviewed: no
+  - `SRC-WP-SCRAPE-2026-11-27` — the full public scrape of
+    jessrsdincyahoocom.wordpress.com (580 published posts) —
+    retrieved 2026-11-27T16:42:05Z — human-reviewed: no
+    (re-scrape; supersedes the 2026-11-25 snapshot of 577 posts)
   - `SRC-ICD203-RENDERING-2026-11-23` — the ICD203 rendering —
     retrieved 2026-11-23 — human-reviewed: no
   - `SRC-ICD203-GEMINI-SPEC-2026-11-25` — the ICD203 Gemini

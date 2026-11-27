@@ -19,7 +19,7 @@ This is a protocol and compliance statement, not legal advice. The Human Supervi
 
 A model or agent reaches this library only through the local files and the local package:
 
-- `index.json` — the index: title, date, url, source_id, source_locator, path, and retrieval_timestamp for all 577 posts.
+- `index.json` — the index: title, date, url, source_id, source_locator, path, and retrieval_timestamp for all 580 posts.
 - `readingroom/` — the standard-library Python package: `load_index`, search by keyword/title/date range, `load_post` by source_id, `provenance_check`, and the CLI (`python3 -m readingroom`).
 - `library/` — the post files themselves, one per post, by year and month.
 
@@ -27,7 +27,7 @@ These three are the Library's context interface — the "Model Context Protocol"
 
 ## 3. What the library contains — and what it does not
 
-- **Contains:** Jesse's own published blog posts (577, snapshot 2026-11-25T18:01:10Z), reproduced faithfully, plus the source-code that loads, searches, and checks them. Every file and every index entry carries `source_id` (`SRC-WP-<post id>`), `source_locator` (the post URL), and `retrieval_timestamp`.
+- **Contains:** Jesse's own published blog posts (580, snapshot 2026-11-27T16:42:05Z), reproduced faithfully, plus the source-code that loads, searches, and checks them. Every file and every index entry carries `source_id` (`SRC-WP-<post id>`), `source_locator` (the post URL), and `retrieval_timestamp`.
 - **Does not contain:** product-related information obtained or derived from Google Cloud APIs, Google MCP servers, or other Google access points. The only Google-related content in this repo is citations in `COLLABORATION.md` (the Gemini conversation link, the note that Google AI Studio was the build environment) — references, not stored derived data.
 - **The Gemini-derived rendering is not here.** The stored rendering derived from the Gemini conversation (`data/renderings/museintelligence-icd203-gemini.md`) lives in the companion app repo, not in this library. On 2026-11-25 Jesse, as Human Supervisor, decided to keep it as-is in the app. That decision and that material are the app's, and they do not change what this library stores.
 

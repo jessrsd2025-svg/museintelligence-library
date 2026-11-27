@@ -1,6 +1,6 @@
 """Tests for the reading-room library.
 
-Verifies the built corpus: 577 entries in the index, every file
+Verifies the built corpus: 580 entries in the index, every file
 present on disk, every file's front-matter complete, and the index
 matching the scrape (count, titles, dates, URLs, source_ids).
 The scrape comparison needs the scrape file; it is skipped with a
@@ -44,8 +44,8 @@ class LibraryTestCase(unittest.TestCase):
         cls.by_id = {e["source_id"]: e for e in cls.entries}
         cls.scrape_path = find_scrape()
 
-    def test_index_has_577_entries(self):
-        self.assertEqual(len(self.entries), 577)
+    def test_index_has_580_entries(self):
+        self.assertEqual(len(self.entries), 580)
 
     def test_no_duplicate_source_ids(self):
         self.assertEqual(len(self.by_id), len(self.entries))
@@ -92,7 +92,7 @@ class LibraryTestCase(unittest.TestCase):
 
         report = provenance_check(self.entries, root=str(REPO_ROOT))
         self.assertTrue(report["ok"], report["problems"][:5])
-        self.assertEqual(report["checked"], 577)
+        self.assertEqual(report["checked"], 580)
 
     def test_search_by_keyword(self):
         from readingroom import search
@@ -111,7 +111,9 @@ class LibraryTestCase(unittest.TestCase):
         from readingroom import search
 
         day = search(self.entries, date_from="2026-11-25", date_to="2026-11-25")
-        self.assertEqual([r["source_id"] for r in day], ["SRC-WP-18250"])
+        self.assertEqual(
+            [r["source_id"] for r in day], ["SRC-WP-18267", "SRC-WP-18250"]
+        )
         old = search(self.entries, date_from="2023-12-22", date_to="2023-12-22")
         self.assertEqual([r["source_id"] for r in old], ["SRC-WP-20"])
 
@@ -131,8 +133,8 @@ class LibraryTestCase(unittest.TestCase):
         from readingroom.scrape import parse_scrape
 
         index_rows, sections = parse_scrape(str(self.scrape_path))
-        self.assertEqual(len(index_rows), 577)
-        self.assertEqual(len(sections), 577)
+        self.assertEqual(len(index_rows), 580)
+        self.assertEqual(len(sections), 580)
         for row, entry in zip(index_rows, self.entries):
             self.assertEqual(row["source_id"], entry["source_id"])
             self.assertEqual(row["title"], entry["title"])

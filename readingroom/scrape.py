@@ -23,7 +23,7 @@ from __future__ import annotations
 
 import re
 
-RETRIEVAL_TIMESTAMP = "2026-11-25T18:01:10Z"
+RETRIEVAL_TIMESTAMP = "2026-11-27T16:42:05Z"
 
 _META_RE = re.compile(r"^- \*\*([A-Za-z_ ]+):\*\* (.*)$")
 _HEADING_RE = re.compile(r"^## (\d+)\. (.*)$")

@@ -1,7 +1,7 @@
 # MuseIntelligence Library
 
 A source-code library of the full public scrape of "jessrsd's Blog" —
-577 published posts (2023-12-22 to 2026-11-25) as individual markdown
+580 published posts (2023-12-22 to 2026-11-27) as individual markdown
 files, with a Python package to load, search, and check them. Every
 file carries its provenance: source_id, source_locator (the post
 URL), and retrieval_timestamp.
@@ -13,11 +13,11 @@ that app governs.
 
 ## What is in here
 
-- `library/` — 577 posts, one file per post, organized by year and
+- `library/` — 580 posts, one file per post, organized by year and
   month: `library/<year>/<month>/<post-id>-<slug>.md`. YAML
   front-matter on every file.
 - `index.json` — the index: title, date, url, source_id,
-  source_locator, path, and retrieval_timestamp for all 577 posts.
+  source_locator, path, and retrieval_timestamp for all 580 posts.
 - `readingroom/` — a standard-library Python package: load the
   index, search by keyword/title/date range, load a post by
   source_id, and run the provenance check. CLI included.
@@ -56,7 +56,7 @@ python3 -m unittest discover -s tests -v
 ## How it was built
 
 - **Source:** the public WordPress.com REST API scrape of
-  jessrsdincyahoocom.wordpress.com, 2026-11-25T18:01:10Z, 577
+  jessrsdincyahoocom.wordpress.com, 2026-11-27T16:42:05Z, 580
   published posts. Public published posts only; private and draft
   posts are not reachable through that API and are not included.
 - **Build:** `python3 tools/build_library.py` parses the scrape (the

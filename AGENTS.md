@@ -5,15 +5,17 @@
 - **Status:** Working specification
 - **Revision:** 1.0
 - **Governed content:** the full public scrape of "jessrsd's Blog" —
-  577 published posts, 2023-12-22 to 2026-11-25, one markdown file
+  580 published posts, 2023-12-22 to 2026-11-27, one markdown file
   per post under `library/`, indexed in `index.json`.
 - **Companion app repo:** https://github.com/jessrsd2025-svg/museintelligence-app
   — the MuseIntelligence ICD203 reading-room and governance app.
   This library is the corpus that app governs.
 - **Sources:**
-  - `SRC-WP-SCRAPE-2026-11-25` — the full public scrape of
-    jessrsdincyahoocom.wordpress.com (577 published posts) —
-    retrieved 2026-11-25T18:01:10Z — human-reviewed: no
+  - `SRC-WP-SCRAPE-2026-11-27` — the full public scrape of
+    jessrsdincyahoocom.wordpress.com (580 published posts) —
+    retrieved 2026-11-27T16:42:05Z — human-reviewed: no
+    (re-scrape; supersedes the 2026-11-25 snapshot of 577 posts,
+    `SRC-WP-SCRAPE-2026-11-25`, retrieved 2026-11-25T18:01:10Z)
   - `SRC-ICD203-RENDERING-2026-11-23` — the ICD203 rendering —
     retrieved 2026-11-23 — human-reviewed: no
   - `SRC-ICD203-GEMINI-SPEC-2026-11-25` — the ICD203 Gemini
@@ -27,7 +29,7 @@
 ## Abstract
 
 MuseIntelligence Library is a source-code library of the full public
-scrape of "jessrsd's Blog": 577 published posts as individual
+scrape of "jessrsd's Blog": 580 published posts as individual
 markdown files under `library/`, indexed in `index.json`, with a
 Python package (`readingroom/`) to load, search, and check them. It
 is a read-only archive. It governs every file in it with provenance,
@@ -48,14 +50,14 @@ been empirically validated.
 - Supporting workflow: **Capture → Analyze → Strategize → Execute**
 - Use these phrases consistently unless the human explicitly directs
   a revision.
-- The library's governed corpus is the blog scrape: 577 published
-  ReadingRoom posts (2023-12-22 to 2026-11-25), covering the
+- The library's governed corpus is the blog scrape: 580 published
+  ReadingRoom posts (2023-12-22 to 2026-11-27), covering the
   Chainlink institutional stack, Treasury tokenization, Neo4j graph
   governance, prediction-market sentiment, GeoJSON spatial analysis,
   and the LIBERTAS // VERITAS // AEQUITAS doctrine. The library
   archives that corpus; it does not re-assert the corpus's claims
   as fact.
-- Repository layout: `library/` (577 post files by year/month),
+- Repository layout: `library/` (580 post files by year/month),
   `index.json` (the index), `readingroom/` (load, search, load by
   source_id, provenance check, CLI), `tools/` (`build_library.py`,
   `aequitas_gate_linter.py`), `tests/`, `COLLABORATION.md`.
@@ -379,13 +381,13 @@ scan.
 ## 14. Source index — the governed corpus
 
 The library's governed corpus is the full public scrape of
-"jessrsd's Blog" (577 published posts, 2023-12-22 to 2026-11-25),
+"jessrsd's Blog" (580 published posts, 2023-12-22 to 2026-11-27),
 one file per post under `library/`, indexed in `index.json`
 (title, date, url, source_id, source_locator, path,
 retrieval_timestamp). Every
 post is a governed source object: `source_id` is
 `SRC-WP-<WordPress post ID>`, `source_locator` is the post URL, and
-`retrieval_timestamp` is 2026-11-25T18:01:10Z (the scrape). All
+`retrieval_timestamp` is 2026-11-27T16:42:05Z (the scrape). All
 claims drawn from these posts are SOURCE_REPORTED unless
 human-reviewed. The index must match the scrape exactly — same
 count, same titles, same dates, same URLs — verified by
@@ -438,9 +440,9 @@ Local artifacts referenced by this document:
   present there either, and the model commit SHA is still *to be
   pinned at build time*.
 - **Scrape coverage:** the scrape covers public published posts
-  only (577). Private and draft posts are not reachable through the
+  only (580). Private and draft posts are not reachable through the
   public API and are not included. The scrape is a snapshot as of
-  2026-11-25T18:01:10Z; posts published after that are not covered
+  2026-11-27T16:42:05Z; posts published after that are not covered
   until the scrape is re-run and the library rebuilt.
 - **Quoted content in the corpus:** `library/` reproduces the
   author's published posts faithfully, including a small number of
