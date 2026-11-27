@@ -4,7 +4,7 @@ date: 2025-04-30T12:51:00
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/30/trump-and-elon-musk-golden-dome-strategic-dynamics/"
 source_id: SRC-WP-9177
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/30/trump-and-elon-musk-golden-dome-strategic-dynamics/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Embedded media](https://www.youtube.com/embed/KCWKZgOy8rg?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en&autohide=2&wmode=transparent)

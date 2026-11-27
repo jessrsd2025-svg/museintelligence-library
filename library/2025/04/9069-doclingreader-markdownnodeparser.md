@@ -4,7 +4,7 @@ date: 2025-04-27T12:35:49
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/27/doclingreader-markdownnodeparser/"
 source_id: SRC-WP-9069
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/27/doclingreader-markdownnodeparser/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - **DocLayNet formats, and secure AI documents.**

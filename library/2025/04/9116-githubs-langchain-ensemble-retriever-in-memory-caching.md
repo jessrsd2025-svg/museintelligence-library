@@ -4,7 +4,7 @@ date: 2025-04-29T11:57:21
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/29/githubs-langchain-ensemble-retriever-in-memory-caching/"
 source_id: SRC-WP-9116
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/29/githubs-langchain-ensemble-retriever-in-memory-caching/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **This chatbot is built using the Retrieval-Augmented Generation (RAG) framework, leveraging Cohere Model and Embeddings. It processes uploaded PDF documents by breaking them down into manageable chunks, creates a searchable vector store, and generates accurate answers to user queries.**[https://openrouter.ai/meta-llama/llama-4-maverick:free](https://openrouter.ai/meta-llama/llama-4-maverick:free)

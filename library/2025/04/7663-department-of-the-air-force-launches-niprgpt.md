@@ -4,7 +4,7 @@ date: 2025-04-03T11:23:39
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/03/department-of-the-air-force-launches-niprgpt/"
 source_id: SRC-WP-7663
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/03/department-of-the-air-force-launches-niprgpt/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.afrc.af.mil/News/Article/3802898/department-of-the-air-force-launches-niprgpt/](https://www.afrc.af.mil/News/Article/3802898/department-of-the-air-force-launches-niprgpt/)

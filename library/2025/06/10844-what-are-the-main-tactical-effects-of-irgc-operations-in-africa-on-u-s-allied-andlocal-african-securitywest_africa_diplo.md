@@ -4,7 +4,7 @@ date: 2025-06-25T12:14:03
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/25/what-are-the-main-tactical-effects-of-irgc-operations-in-africa-on-u-s-allied-andlocal-african-securitywest_africa_diplomatic_breaks-blowback-escalationsample-rag-output/"
 source_id: SRC-WP-10844
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/25/what-are-the-main-tactical-effects-of-irgc-operations-in-africa-on-u-s-allied-andlocal-african-securitywest_africa_diplomatic_breaks-blowback-escalationsample-rag-output/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **GraphRAG-ready node/edge pairs** for timeline-integrated scenario modeling

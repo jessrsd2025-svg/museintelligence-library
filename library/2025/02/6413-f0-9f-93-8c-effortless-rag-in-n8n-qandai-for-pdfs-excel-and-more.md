@@ -4,7 +4,7 @@ date: 2025-02-20T14:15:34
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/20/%f0%9f%93%8c-effortless-rag-in-n8n-qandai-for-pdfs-excel-and-more/"
 source_id: SRC-WP-6413
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/20/%f0%9f%93%8c-effortless-rag-in-n8n-qandai-for-pdfs-excel-and-more/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-19.png?w=1013)

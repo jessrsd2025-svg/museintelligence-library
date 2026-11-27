@@ -4,7 +4,7 @@ date: 2025-03-30T14:21:20
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/30/zero-trust-rag-technical-specifications-mermaid-graph-tba-user-query-zero-trust-gateway/"
 source_id: SRC-WP-7575
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/30/zero-trust-rag-technical-specifications-mermaid-graph-tba-user-query-zero-trust-gateway/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/03/image-29.png?w=929)

@@ -4,7 +4,7 @@ date: 2025-07-08T12:55:54
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/08/microsoft-copilot-gpt-4-1-africom-csis-and-unsom-documents-pdf/"
 source_id: SRC-WP-11259
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/08/microsoft-copilot-gpt-4-1-africom-csis-and-unsom-documents-pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **RAG-ready JSON/GeoJSON node schema**

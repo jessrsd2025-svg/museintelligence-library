@@ -4,7 +4,7 @@ date: 2025-06-21T12:40:50
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/irans-revolutionary-guard-corps-irgc-controls-up-to-50-of-the-countrys-oil-exports/"
 source_id: SRC-WP-10684
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/irans-revolutionary-guard-corps-irgc-controls-up-to-50-of-the-countrys-oil-exports/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/06/image-32.png?w=858)

@@ -4,7 +4,7 @@ date: 2025-03-25T13:15:26
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/25/ai-forces-acft-algorithmic-warfare-cross-functional-team-openrouter_open-source/"
 source_id: SRC-WP-7383
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/25/ai-forces-acft-algorithmic-warfare-cross-functional-team-openrouter_open-source/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **“Knowledge Graph Construction”Mistral Small 3.1 24B (free) | gpt4.5 | Qwen VL Max | Alibaba() Gemini Pro 2.0 Experimental (free) | Google AI Studio |DeepSeek R1|Gemini Flash Lite 2.0 Preview (free) | Google Vertex**

@@ -4,7 +4,7 @@ date: 2025-05-25T12:19:11
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/25/highlights-for-editors-integrators-rapid-assessment-fact-check-pipeline-api-vector-approach-api-ready-risk-monitor-template/"
 source_id: SRC-WP-10164
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/25/highlights-for-editors-integrators-rapid-assessment-fact-check-pipeline-api-vector-approach-api-ready-risk-monitor-template/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ### POST /v1/responses: python

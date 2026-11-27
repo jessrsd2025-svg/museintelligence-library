@@ -4,7 +4,7 @@ date: 2025-07-25T12:41:53
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/25/justice-department-lawsuit-against-new-york-citys-sanctuary-policies/"
 source_id: SRC-WP-12012
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/25/justice-department-lawsuit-against-new-york-citys-sanctuary-policies/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***The need for real-time monitoring, rapid detection, and agile responses, akin to a “pandemic style response”, is becoming increasingly critical***

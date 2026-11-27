@@ -4,7 +4,7 @@ date: 2025-06-23T12:01:54
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/23/irgc_energy_pulse_q2_2025-pdf/"
 source_id: SRC-WP-10727
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/23/irgc_energy_pulse_q2_2025-pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **GraphRAG+Neo4j OSINT/alert system** to support:

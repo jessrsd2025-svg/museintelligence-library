@@ -4,7 +4,7 @@ date: 2025-08-18T12:43:33
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/18/graph-ontology-design-principles-for-crime-networks/"
 source_id: SRC-WP-12423
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/18/graph-ontology-design-principles-for-crime-networks/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/08/image-18.png?w=794)

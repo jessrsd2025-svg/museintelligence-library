@@ -4,7 +4,7 @@ date: 2025-07-25T11:19:53
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/25/key-trends-from-the-dea-2025-national-drug-threat-assessment/"
 source_id: SRC-WP-11966
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/25/key-trends-from-the-dea-2025-national-drug-threat-assessment/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-76.png?w=683)

@@ -4,7 +4,7 @@ date: 2025-06-27T12:19:30
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/27/isr-tasking-how-irgc-leverages-west-africas-sahan-for-logistics-smuggling-and-regional-proxy-training/"
 source_id: SRC-WP-10898
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/27/isr-tasking-how-irgc-leverages-west-africas-sahan-for-logistics-smuggling-and-regional-proxy-training/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ## Data Pipeline Mock (GeoJSON + GraphRAG Ready)

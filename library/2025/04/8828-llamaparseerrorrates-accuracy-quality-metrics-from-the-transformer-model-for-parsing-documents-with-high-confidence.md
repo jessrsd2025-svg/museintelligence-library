@@ -4,7 +4,7 @@ date: 2025-04-23T11:50:27
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/23/llamaparseerrorrates-accuracy-quality-metrics-from-the-transformer-model-for-parsing-documents-with-high-confidence/"
 source_id: SRC-WP-8828
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/23/llamaparseerrorrates-accuracy-quality-metrics-from-the-transformer-model-for-parsing-documents-with-high-confidence/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/04/image-121.png?w=627)

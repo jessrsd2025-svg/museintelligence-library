@@ -4,7 +4,7 @@ date: 2025-02-16T14:46:26
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/16/dynamic-expert-selection-the-marine-corps-software-factory-military-use-only-moe-model/"
 source_id: SRC-WP-6333
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/16/dynamic-expert-selection-the-marine-corps-software-factory-military-use-only-moe-model/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-14.png?w=897)

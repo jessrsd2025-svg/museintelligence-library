@@ -4,7 +4,7 @@ date: 2025-04-25T12:10:53
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/25/sora-stone-rook-checkmate-chatgpt/"
 source_id: SRC-WP-8958
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/25/sora-stone-rook-checkmate-chatgpt/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Preview of shared ChatGPT content](https://media.licdn.com/dms/image/sync/v2/D4E27AQHkUvtHzLKcKg/articleshare-shrink_480/B4EZZs1bgTHYAo-/0/1745582668463?e=1746190800&v=beta&t=Au48B4lDSV2VWVeMVJAfClbUNZ3yaAsvZoR7jKkRROE)

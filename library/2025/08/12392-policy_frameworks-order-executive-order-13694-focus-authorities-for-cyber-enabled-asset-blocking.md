@@ -4,7 +4,7 @@ date: 2025-08-15T16:46:56
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/15/policy_frameworks-order-executive-order-13694-focus-authorities-for-cyber-enabled-asset-blocking/"
 source_id: SRC-WP-12392
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/15/policy_frameworks-order-executive-order-13694-focus-authorities-for-cyber-enabled-asset-blocking/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Policy frameworks** (Executive Orders, SEC guidance, FinCEN rules, FAR/DFARS clauses) form the **regulatory spine** in Washington DC.

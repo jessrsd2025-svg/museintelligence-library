@@ -4,7 +4,7 @@ date: 2025-03-02T13:56:11
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/02/unmanned_news-the-rag-landscape-challenges-gpt-4-5-preview/"
 source_id: SRC-WP-6752
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/02/unmanned_news-the-rag-landscape-challenges-gpt-4-5-preview/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Strategic Convergence: Embeddings and Vector Databases Vector embeddings are fundamental to every RAG solution. As demonstrated by Google Gemini (PaLM API)**

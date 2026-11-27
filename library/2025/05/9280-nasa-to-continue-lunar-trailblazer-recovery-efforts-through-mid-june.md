@@ -4,7 +4,7 @@ date: 2025-05-03T13:12:04
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/03/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/"
 source_id: SRC-WP-9280
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/03/nasa-to-continue-lunar-trailblazer-recovery-efforts-through-mid-june/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/05/image-7.png?w=297)

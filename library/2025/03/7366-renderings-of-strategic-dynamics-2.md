@@ -4,7 +4,7 @@ date: 2025-03-22T13:50:24
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/22/renderings-of-strategic-dynamics-2/"
 source_id: SRC-WP-7366
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/22/renderings-of-strategic-dynamics-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Bloomberg Television Interview with Iran Foreign Minister October 27, 2023

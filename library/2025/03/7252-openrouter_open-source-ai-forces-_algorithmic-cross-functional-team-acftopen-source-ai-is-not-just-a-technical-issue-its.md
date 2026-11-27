@@ -4,7 +4,7 @@ date: 2025-03-19T14:31:00
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/19/openrouter_open-source-ai-forces-_algorithmic-cross-functional-team-acftopen-source-ai-is-not-just-a-technical-issue-its-a-geopolitical-one-the-balance-of-power-between-the-us-and-china/"
 source_id: SRC-WP-7252
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/19/openrouter_open-source-ai-forces-_algorithmic-cross-functional-team-acftopen-source-ai-is-not-just-a-technical-issue-its-a-geopolitical-one-the-balance-of-power-between-the-us-and-china/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Algorithmic Cross Functional Team ACFT:[Open-Source AI is not just a technical issue; it’s a geopolitical one] “The balance of power between the US and China”**

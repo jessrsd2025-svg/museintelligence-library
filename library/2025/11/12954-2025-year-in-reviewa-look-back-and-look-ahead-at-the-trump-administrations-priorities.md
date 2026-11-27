@@ -4,7 +4,7 @@ date: 2025-11-29T15:13:55
 url: "https://jessrsdincyahoocom.wordpress.com/2025/11/29/2025-year-in-reviewa-look-back-and-look-ahead-at-the-trump-administrations-priorities/"
 source_id: SRC-WP-12954
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/11/29/2025-year-in-reviewa-look-back-and-look-ahead-at-the-trump-administrations-priorities/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Under the legislative and executive frameworks of the Trump administration, the regulation of digital assets and artificial intelligence has been formalized through specific mandates and leadership. Below is a mapping of these policy developments into a **LinkedIn-ready explainer**.

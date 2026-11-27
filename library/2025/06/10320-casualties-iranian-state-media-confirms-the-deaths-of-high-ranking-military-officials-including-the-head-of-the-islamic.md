@@ -4,7 +4,7 @@ date: 2025-06-14T12:47:11
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/14/casualties-iranian-state-media-confirms-the-deaths-of-high-ranking-military-officials-including-the-head-of-the-islamic-revolutionary-guard-corps-irgc/"
 source_id: SRC-WP-10320
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/14/casualties-iranian-state-media-confirms-the-deaths-of-high-ranking-military-officials-including-the-head-of-the-islamic-revolutionary-guard-corps-irgc/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Implementing Retrieval-Augmented Generation) agents for editorial risk monitoring or policy analysis, using Python or Node.js**Pipeline to extract, structure, and summarize** strategic/PDF documents for further analysis or reporting.

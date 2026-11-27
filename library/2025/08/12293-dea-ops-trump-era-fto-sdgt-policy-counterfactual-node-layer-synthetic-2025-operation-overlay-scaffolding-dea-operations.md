@@ -4,7 +4,7 @@ date: 2025-08-09T14:25:55
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/09/dea-ops-trump-era-fto-sdgt-policy-counterfactual-node-layer-synthetic-2025-operation-overlay-scaffolding-dea-operations-2015-2025precursor-volatility-and-crypto-finance/"
 source_id: SRC-WP-12293
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/09/dea-ops-trump-era-fto-sdgt-policy-counterfactual-node-layer-synthetic-2025-operation-overlay-scaffolding-dea-operations-2015-2025precursor-volatility-and-crypto-finance/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **[Designating Cartels And Other Organizations As Foreign Terrorist Organizations And Specially Designated Global Terrorists](https://www.whitehouse.gov/presidential-actions/2025/01/designating-cartels-and-other-organizations-as-foreign-terrorist-organizations-and-specially-designated-global-terrorists/)**

@@ -4,7 +4,7 @@ date: 2025-02-13T13:42:44
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/13/how-to-train-a-dragon-the-role-of-technology-diplomacy-in-the-cloud-computing-needs-of-deepseek-r1/"
 source_id: SRC-WP-6205
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/13/how-to-train-a-dragon-the-role-of-technology-diplomacy-in-the-cloud-computing-needs-of-deepseek-r1/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-8.png?w=957)

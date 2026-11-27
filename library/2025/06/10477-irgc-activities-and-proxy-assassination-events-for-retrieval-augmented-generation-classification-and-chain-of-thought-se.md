@@ -4,7 +4,7 @@ date: 2025-06-17T13:45:35
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/17/irgc-activities-and-proxy-assassination-events-for-retrieval-augmented-generation-classification-and-chain-of-thought-search/"
 source_id: SRC-WP-10477
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/17/irgc-activities-and-proxy-assassination-events-for-retrieval-augmented-generation-classification-and-chain-of-thought-search/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Pipeline to extract, structure, and summarize** strategic/PDF documents for further analysis or reporting.

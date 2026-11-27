@@ -4,7 +4,7 @@ date: 2025-11-17T15:17:12
 url: "https://jessrsdincyahoocom.wordpress.com/2025/11/17/anthropic-hackers-used-claude-to-automate-cyberattack-techrepublic-com/"
 source_id: SRC-WP-12506
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/11/17/anthropic-hackers-used-claude-to-automate-cyberattack-techrepublic-com/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/11/image-3.png?w=728)

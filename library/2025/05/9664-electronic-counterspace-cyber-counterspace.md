@@ -4,7 +4,7 @@ date: 2025-05-11T12:01:18
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/11/electronic-counterspace-cyber-counterspace/"
 source_id: SRC-WP-9664
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/11/electronic-counterspace-cyber-counterspace/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Decoy Satellites & False Signatures**: Deploying **dummy satellites** or altering **electromagnetic signatures** to confuse enemy tracking systems.

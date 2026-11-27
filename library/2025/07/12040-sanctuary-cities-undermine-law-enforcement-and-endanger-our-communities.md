@@ -4,7 +4,7 @@ date: 2025-07-28T12:36:15
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/28/sanctuary-cities-undermine-law-enforcement-and-endanger-our-communities/"
 source_id: SRC-WP-12040
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/28/sanctuary-cities-undermine-law-enforcement-and-endanger-our-communities/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ⚙️***Semantic Chain Nodes: DTO (Sinaloa/CJNG) ➝ Proxy Crews (Honduran/Dominican) ➝ Sanctuary Policy ➝ ICE Disruption ➝ Enforcement Fragmentation ➝ OD Persistence (mapped to Bronx, Tenderloin, Kensington).***

@@ -4,7 +4,7 @@ date: 2025-07-15T15:39:57
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/15/openai-api-platform-gpt-4-1-vs-xai-supergrok-heavy-api-deep-wiki-geojson-overlay-and-semantic-retrieval/"
 source_id: SRC-WP-11555
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/15/openai-api-platform-gpt-4-1-vs-xai-supergrok-heavy-api-deep-wiki-geojson-overlay-and-semantic-retrieval/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-43.png?w=834)

@@ -4,7 +4,7 @@ date: 2025-04-16T12:06:49
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/16/protect-ai-deepseek-for-ai-democracy-how-is-chinas-deepseek-stay-closer-to-democratic-values-than-its-western-competitors/"
 source_id: SRC-WP-8282
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/16/protect-ai-deepseek-for-ai-democracy-how-is-chinas-deepseek-stay-closer-to-democratic-values-than-its-western-competitors/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Llama 3.1 Nemotron Nano 8B v1 (free) | Chutes**

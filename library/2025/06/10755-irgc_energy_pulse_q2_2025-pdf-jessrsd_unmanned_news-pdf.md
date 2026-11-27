@@ -4,7 +4,7 @@ date: 2025-06-23T13:45:33
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/23/irgc_energy_pulse_q2_2025-pdf-jessrsd_unmanned_news-pdf/"
 source_id: SRC-WP-10755
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/23/irgc_energy_pulse_q2_2025-pdf-jessrsd_unmanned_news-pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 C***hairman of the Joint Chiefs of Staff Gen. Dan “Razin” Caine*** recounts the return of B-2 bomber pilots following U.S. airstrikes on three Iranian nuclear facilities. The video is part of broader coverage of these strikes and subsequent Pentagon briefings.

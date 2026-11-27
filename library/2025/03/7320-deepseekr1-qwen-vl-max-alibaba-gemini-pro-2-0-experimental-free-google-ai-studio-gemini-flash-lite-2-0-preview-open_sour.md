@@ -4,7 +4,7 @@ date: 2025-03-21T15:15:33
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/21/deepseekr1-qwen-vl-max-alibaba-gemini-pro-2-0-experimental-free-google-ai-studio-gemini-flash-lite-2-0-preview-open_source-google/"
 source_id: SRC-WP-7320
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/21/deepseekr1-qwen-vl-max-alibaba-gemini-pro-2-0-experimental-free-google-ai-studio-gemini-flash-lite-2-0-preview-open_source-google/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **“Artificial Intelligence technologies”:[ OpenRouter Open-Source models] Qwen VL Max JSON format for “Vector Structured Data: [enabling and efficient embedding, retrieval, and embedding processes”]**

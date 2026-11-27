@@ -4,7 +4,7 @@ date: 2025-05-02T13:22:18
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/02/fleet-marine-force-combat-operations-recent-technological-advancements-military-ranks-org/"
 source_id: SRC-WP-9235
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/02/fleet-marine-force-combat-operations-recent-technological-advancements-military-ranks-org/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [***Serving America’s Military***](https://www.military-ranks.org/)

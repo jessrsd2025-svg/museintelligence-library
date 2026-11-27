@@ -4,7 +4,7 @@ date: 2025-05-26T15:19:03
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/26/editorial-dashboard-wireframe-text-based-pseudo-ui/"
 source_id: SRC-WP-10179
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/26/editorial-dashboard-wireframe-text-based-pseudo-ui/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Editorial Dashboard Wireframe** (Text-based Pseudo-UI)API Integration: Unmanned_APIs that the vectorize risk queries, fetch data seamlessly from Unmanned/api/vector-embedding endpoint.

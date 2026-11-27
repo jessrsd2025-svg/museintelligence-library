@@ -4,7 +4,7 @@ date: 2025-06-22T15:06:36
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/22/irgc-maritime-logistics-supporting-chinese-oil-intake-force-u-s-posture-into-hard-deterrence-limiting-flexibility-for-coalition-diplomacy-or-de-escalation/"
 source_id: SRC-WP-10709
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/22/irgc-maritime-logistics-supporting-chinese-oil-intake-force-u-s-posture-into-hard-deterrence-limiting-flexibility-for-coalition-diplomacy-or-de-escalation/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/06/image-34.png?w=683)

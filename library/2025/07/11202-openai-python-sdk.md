@@ -4,7 +4,7 @@ date: 2025-07-07T12:43:24
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/07/openai-python-sdk/"
 source_id: SRC-WP-11202
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/07/openai-python-sdk/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Ingest PDFs via `/api/vector/ingest`***

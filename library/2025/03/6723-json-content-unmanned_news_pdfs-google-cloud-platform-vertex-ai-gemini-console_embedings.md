@@ -4,7 +4,7 @@ date: 2025-03-01T14:10:45
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/01/json-content-unmanned_news_pdfs-google-cloud-platform-vertex-ai-gemini-console_embedings/"
 source_id: SRC-WP-6723
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/01/json-content-unmanned_news_pdfs-google-cloud-platform-vertex-ai-gemini-console_embedings/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/03/image.png?w=957)

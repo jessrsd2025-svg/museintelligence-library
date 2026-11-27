@@ -4,7 +4,7 @@ date: 2025-07-14T12:25:02
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/14/deep-wiki-geojson-overlay-and-semantic-retrieval-for-the-1854-cholera-outbreak-map/"
 source_id: SRC-WP-11512
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/14/deep-wiki-geojson-overlay-and-semantic-retrieval-for-the-1854-cholera-outbreak-map/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Retrieval chain using FAISS retriever and LLM with custom prompts***

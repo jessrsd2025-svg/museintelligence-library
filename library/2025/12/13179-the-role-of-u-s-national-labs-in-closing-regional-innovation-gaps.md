@@ -4,7 +4,7 @@ date: 2025-12-05T14:49:44
 url: "https://jessrsdincyahoocom.wordpress.com/2025/12/05/the-role-of-u-s-national-labs-in-closing-regional-innovation-gaps/"
 source_id: SRC-WP-13179
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/12/05/the-role-of-u-s-national-labs-in-closing-regional-innovation-gaps/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/12/image-12.png?w=994)

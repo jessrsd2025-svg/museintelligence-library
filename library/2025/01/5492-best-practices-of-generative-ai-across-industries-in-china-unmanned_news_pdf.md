@@ -4,7 +4,7 @@ date: 2025-01-09T15:26:28
 url: "https://jessrsdincyahoocom.wordpress.com/2025/01/09/best-practices-of-generative-ai-across-industries-in-china-unmanned_news_pdf/"
 source_id: SRC-WP-5492
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/01/09/best-practices-of-generative-ai-across-industries-in-china-unmanned_news_pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/01/image-1.png?w=333)

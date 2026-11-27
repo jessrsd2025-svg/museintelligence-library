@@ -4,7 +4,7 @@ date: 2025-06-16T13:34:21
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/16/crs_report-irans-terrorism-and-assignation-attempt-of-top-u-s-leader/"
 source_id: SRC-WP-10458
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/16/crs_report-irans-terrorism-and-assignation-attempt-of-top-u-s-leader/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Generated image](https://videos.openai.com/vg-assets/assets%2Ftask_01jxz3ynave06sf72xzfhat2vr%2F1750169907_img_3.webp?st=2025-06-17T12%3A28%3A37Z&se=2025-06-23T13%3A28%3A37Z&sks=b&skt=2025-06-17T12%3A28%3A37Z&ske=2025-06-23T13%3A28%3A37Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=aa5ddad1-c91a-4f0a-9aca-e20682cc8969&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=mN1XuOpotaW99z3bo9ND8kO5r7QvDZCKNpDjwntFkxg%3D&az=oaivgprodscus)

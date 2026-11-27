@@ -4,7 +4,7 @@ date: 2025-05-21T13:01:37
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/21/space-domain-awareness-the-space-force-has-created-several-initiatives-to-achieve-this-goal-including-the-space-domain-awareness-marketplace-the-ssc-front-door-and-spacewerx/"
 source_id: SRC-WP-10031
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/21/space-domain-awareness-the-space-force-has-created-several-initiatives-to-achieve-this-goal-including-the-space-domain-awareness-marketplace-the-ssc-front-door-and-spacewerx/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **“role”: “Defend US national security interests in space; missile warning, space superiority”,**

@@ -4,7 +4,7 @@ date: 2025-11-23T14:21:44
 url: "https://jessrsdincyahoocom.wordpress.com/2025/11/23/secret-serviceoperation-raven-is-a-multi-agency-enforcement-initiative-led-by-the-u-s-secret-service-with-coordination-from-the-doj-ofac-fincen-fbi-and-forensic-partners-like-trm-labs-an/"
 source_id: SRC-WP-12789
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/11/23/secret-serviceoperation-raven-is-a-multi-agency-enforcement-initiative-led-by-the-u-s-secret-service-with-coordination-from-the-doj-ofac-fincen-fbi-and-forensic-partners-like-trm-labs-an/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/11/image-10.png?w=858)

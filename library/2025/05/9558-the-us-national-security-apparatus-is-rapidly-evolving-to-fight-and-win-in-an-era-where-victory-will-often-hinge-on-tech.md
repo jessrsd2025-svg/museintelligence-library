@@ -4,7 +4,7 @@ date: 2025-05-09T13:05:02
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/09/the-us-national-security-apparatus-is-rapidly-evolving-to-fight-and-win-in-an-era-where-victory-will-often-hinge-on-technological-edge-speed-of-adaptation-and-the-seamless-integration-of-combat-powe/"
 source_id: SRC-WP-9558
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/09/the-us-national-security-apparatus-is-rapidly-evolving-to-fight-and-win-in-an-era-where-victory-will-often-hinge-on-technological-edge-speed-of-adaptation-and-the-seamless-integration-of-combat-powe/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ---

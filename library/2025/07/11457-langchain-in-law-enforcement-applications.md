@@ -4,7 +4,7 @@ date: 2025-07-13T15:31:41
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/13/langchain-in-law-enforcement-applications/"
 source_id: SRC-WP-11457
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/13/langchain-in-law-enforcement-applications/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Favicon for x-ai](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://x.ai/&size=256)

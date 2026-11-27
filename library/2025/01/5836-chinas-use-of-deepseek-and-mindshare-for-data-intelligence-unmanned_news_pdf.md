@@ -4,7 +4,7 @@ date: 2025-01-29T13:15:47
 url: "https://jessrsdincyahoocom.wordpress.com/2025/01/29/chinas-use-of-deepseek-and-mindshare-for-data-intelligence-unmanned_news_pdf/"
 source_id: SRC-WP-5836
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/01/29/chinas-use-of-deepseek-and-mindshare-for-data-intelligence-unmanned_news_pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/01/image-21.png?w=897)

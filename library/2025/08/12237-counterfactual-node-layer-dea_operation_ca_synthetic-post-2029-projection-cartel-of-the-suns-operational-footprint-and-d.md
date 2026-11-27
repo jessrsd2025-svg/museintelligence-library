@@ -4,7 +4,7 @@ date: 2025-08-08T13:20:18
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/08/counterfactual-node-layer-dea_operation_ca_synthetic-post-2029-projection-cartel-of-the-suns-operational-footprint-and-dea-strategy/"
 source_id: SRC-WP-12237
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/08/counterfactual-node-layer-dea_operation_ca_synthetic-post-2029-projection-cartel-of-the-suns-operational-footprint-and-dea-strategy/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Venezuelan](https://en.wikipedia.org/wiki/Venezuela) ***crime organization headed by high-ranking members of the*** [Armed Forces of Venezuela](https://en.wikipedia.org/wiki/Armed_Forces_of_Venezuela)

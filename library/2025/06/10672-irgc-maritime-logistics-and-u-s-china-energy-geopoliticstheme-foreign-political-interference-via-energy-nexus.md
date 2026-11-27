@@ -4,7 +4,7 @@ date: 2025-06-21T12:09:13
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/irgc-maritime-logistics-and-u-s-china-energy-geopoliticstheme-foreign-political-interference-via-energy-nexus/"
 source_id: SRC-WP-10672
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/irgc-maritime-logistics-and-u-s-china-energy-geopoliticstheme-foreign-political-interference-via-energy-nexus/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/06/image-31.png?w=879)

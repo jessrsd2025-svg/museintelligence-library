@@ -4,7 +4,7 @@ date: 2025-08-01T12:28:21
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/01/cjngs-expansion-beyond-traditional-areas-u-s-market-growth/"
 source_id: SRC-WP-12175
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/01/cjngs-expansion-beyond-traditional-areas-u-s-market-growth/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 global conflicts that could most significantly affect the United States in 2026Download

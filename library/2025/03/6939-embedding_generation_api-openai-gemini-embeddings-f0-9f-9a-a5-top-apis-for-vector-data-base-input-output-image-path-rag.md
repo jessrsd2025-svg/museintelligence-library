@@ -4,7 +4,7 @@ date: 2025-03-07T14:11:19
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/07/embedding_generation_api-openai-gemini-embeddings-%f0%9f%9a%a5-top-apis-for-vector-data-base-input-output-image-path-rag-for-conceptual-queries-renderings-of-image-path-rag-innovatio/"
 source_id: SRC-WP-6939
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/07/embedding_generation_api-openai-gemini-embeddings-%f0%9f%9a%a5-top-apis-for-vector-data-base-input-output-image-path-rag-for-conceptual-queries-renderings-of-image-path-rag-innovatio/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Artificial Intelligence (AI)**: Accelerating machine learning algorithms and neural network computations.

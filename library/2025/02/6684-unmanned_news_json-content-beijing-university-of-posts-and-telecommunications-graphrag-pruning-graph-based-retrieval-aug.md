@@ -4,7 +4,7 @@ date: 2025-02-27T13:45:48
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/27/unmanned_news_json-content-beijing-university-of-posts-and-telecommunications-graphrag-pruning-graph-based-retrieval-augmented-generation-university-of/"
 source_id: SRC-WP-6684
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/27/unmanned_news_json-content-beijing-university-of-posts-and-telecommunications-graphrag-pruning-graph-based-retrieval-augmented-generation-university-of/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **{Pruning Graph-based Retrieval Augmented Generation University of Hong Kong Northeastern University}**

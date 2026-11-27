@@ -4,7 +4,7 @@ date: 2025-07-30T12:43:43
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/30/baltimores-plan-to-secure-public-health-driven-conduit-for-information-exchange-targeting-synthetic-opioid-fatalities-by-integrating-forensic-geospatial-and-dto-drug-trafficking-organization-i/"
 source_id: SRC-WP-12112
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/30/baltimores-plan-to-secure-public-health-driven-conduit-for-information-exchange-targeting-synthetic-opioid-fatalities-by-integrating-forensic-geospatial-and-dto-drug-trafficking-organization-i/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Baltimore’s public health-driven conduit: [Targeted, lawful, and accountable collaboration between Baltimore Police, Fire/EMS, and federal agencies (ICE/HSI/DHS/DEA) for the purpose of information exchange, targeting synthetic opioid fatalities by integrating forensic, geospatial, and DTO (Drug Trafficking Organization) intelligence]

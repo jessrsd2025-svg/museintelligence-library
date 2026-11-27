@@ -4,7 +4,7 @@ date: 2025-04-11T12:29:04
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/11/r1-distill-llama-8b-novitaai/"
 source_id: SRC-WP-8055
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/11/r1-distill-llama-8b-novitaai/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Reasoning**:**[structured approach to** **extract financial data from PDFs APIs Chat**,**for AI integration, explore** **RAG (Retrieval Augmented Generation) and vector databases for financial applications]**

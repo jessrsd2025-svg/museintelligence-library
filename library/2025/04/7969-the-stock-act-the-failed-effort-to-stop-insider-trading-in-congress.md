@@ -4,7 +4,7 @@ date: 2025-04-10T11:46:27
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/10/the-stock-act-the-failed-effort-to-stop-insider-trading-in-congress/"
 source_id: SRC-WP-7969
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/10/the-stock-act-the-failed-effort-to-stop-insider-trading-in-congress/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/flagship3jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM](https://www.linkedin.com/in/flagship3jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM)

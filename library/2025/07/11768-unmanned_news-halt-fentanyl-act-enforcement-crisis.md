@@ -4,7 +4,7 @@ date: 2025-07-21T14:11:04
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/21/unmanned_news-halt-fentanyl-act-enforcement-crisis/"
 source_id: SRC-WP-11768
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/21/unmanned_news-halt-fentanyl-act-enforcement-crisis/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-60.png?w=851)

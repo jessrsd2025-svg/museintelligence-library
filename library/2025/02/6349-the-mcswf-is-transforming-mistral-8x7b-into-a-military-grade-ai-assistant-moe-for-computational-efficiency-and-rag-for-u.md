@@ -4,7 +4,7 @@ date: 2025-02-16T15:05:22
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/16/the-mcswf-is-transforming-mistral-8x7b-into-a-military-grade-ai-assistant-moe-for-computational-efficiency-and-rag-for-u-s-military/"
 source_id: SRC-WP-6349
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/16/the-mcswf-is-transforming-mistral-8x7b-into-a-military-grade-ai-assistant-moe-for-computational-efficiency-and-rag-for-u-s-military/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **MCSWF is transforming “Mistral” 8x7B into a military-grade AI assistant: MoE for computational efficiency and RAG for U.S. Military**

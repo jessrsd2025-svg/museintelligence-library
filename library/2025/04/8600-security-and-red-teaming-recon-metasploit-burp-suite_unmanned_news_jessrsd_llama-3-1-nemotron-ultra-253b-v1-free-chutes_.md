@@ -4,7 +4,7 @@ date: 2025-04-19T13:03:42
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/19/security-and-red-teaming-recon-metasploit-burp-suite_unmanned_news_jessrsd_llama-3-1-nemotron-ultra-253b-v1-free-chutes_pdfdownload/"
 source_id: SRC-WP-8600
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/19/security-and-red-teaming-recon-metasploit-burp-suite_unmanned_news_jessrsd_llama-3-1-nemotron-ultra-253b-v1-free-chutes_pdfdownload/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/04/image-84.png?w=864)

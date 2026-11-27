@@ -4,7 +4,7 @@ date: 2025-05-07T13:16:25
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/07/uniteds-states-space-force-area-of-responsibilty-counter-space-exploration/"
 source_id: SRC-WP-9472
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/07/uniteds-states-space-force-area-of-responsibilty-counter-space-exploration/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **: [space.com – China’s Space Program [cnsa.gov]([https://www.cnsa.gov)”,(https://www.space.com](<https://www.cnsa.gov)”,(https://www.space.com>))”: [“NASA’s Artemis Program: [nasa.gov/artemis]([https://www.nasa.gov/artemis](https://www.nasa.gov/artemis))**

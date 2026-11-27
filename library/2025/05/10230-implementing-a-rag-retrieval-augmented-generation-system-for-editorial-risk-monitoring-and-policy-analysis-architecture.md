@@ -4,7 +4,7 @@ date: 2025-05-28T13:56:47
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/28/implementing-a-rag-retrieval-augmented-generation-system-for-editorial-risk-monitoring-and-policy-analysis-architecture-python-node-js-implementations-embedding-retrieval-and-workflow-automatio/"
 source_id: SRC-WP-10230
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/28/implementing-a-rag-retrieval-augmented-generation-system-for-editorial-risk-monitoring-and-policy-analysis-architecture-python-node-js-implementations-embedding-retrieval-and-workflow-automatio/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ```

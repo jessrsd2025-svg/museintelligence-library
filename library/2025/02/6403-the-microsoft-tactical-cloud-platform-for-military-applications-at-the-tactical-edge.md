@@ -4,7 +4,7 @@ date: 2025-02-19T14:37:44
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/19/the-microsoft-tactical-cloud-platform-for-military-applications-at-the-tactical-edge/"
 source_id: SRC-WP-6403
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/19/the-microsoft-tactical-cloud-platform-for-military-applications-at-the-tactical-edge/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-18.png?w=897)

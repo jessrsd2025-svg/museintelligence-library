@@ -4,7 +4,7 @@ date: 2025-05-05T13:07:24
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/05/strategic-implications-of-chinas-cislunar-space-activities-space-force-space-domain-warfare-chinas-advancements-in-military-space-capabilities-pdf/"
 source_id: SRC-WP-9385
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/05/strategic-implications-of-chinas-cislunar-space-activities-space-force-space-domain-warfare-chinas-advancements-in-military-space-capabilities-pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Space Force Space Domain Warfare| China’s advancements in military space capabilities.pdf**

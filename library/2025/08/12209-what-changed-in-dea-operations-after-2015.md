@@ -4,7 +4,7 @@ date: 2025-08-05T13:44:31
 url: "https://jessrsdincyahoocom.wordpress.com/2025/08/05/what-changed-in-dea-operations-after-2015/"
 source_id: SRC-WP-12209
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/08/05/what-changed-in-dea-operations-after-2015/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 2025 National Drug Threat Assessment_Web 5-12-2025Download

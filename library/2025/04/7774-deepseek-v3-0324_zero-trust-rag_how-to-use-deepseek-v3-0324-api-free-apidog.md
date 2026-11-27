@@ -4,7 +4,7 @@ date: 2025-04-05T13:12:50
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/05/deepseek-v3-0324_zero-trust-rag_how-to-use-deepseek-v3-0324-api-free-apidog/"
 source_id: SRC-WP-7774
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/05/deepseek-v3-0324_zero-trust-rag_how-to-use-deepseek-v3-0324-api-free-apidog/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [DeepSeek V3 0324 | Parasail](https://openrouter.ai/deepseek/deepseek-chat-v3-0324)

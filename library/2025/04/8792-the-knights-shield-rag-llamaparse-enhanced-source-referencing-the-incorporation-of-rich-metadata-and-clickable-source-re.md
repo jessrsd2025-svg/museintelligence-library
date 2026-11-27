@@ -4,7 +4,7 @@ date: 2025-04-22T12:34:10
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/22/the-knights-shield-rag-llamaparse-enhanced-source-referencing-the-incorporation-of-rich-metadata-and-clickable-source-references/"
 source_id: SRC-WP-8792
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/22/the-knights-shield-rag-llamaparse-enhanced-source-referencing-the-incorporation-of-rich-metadata-and-clickable-source-references/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Scalability and Efficiency:** Handle massive volumes of PDFs without compromising on response time or accuracy[https://kx.com/blog/advanced-pdf-parsing-for-rag/](https://kx.com/blog/advanced-pdf-parsing-for-rag/)

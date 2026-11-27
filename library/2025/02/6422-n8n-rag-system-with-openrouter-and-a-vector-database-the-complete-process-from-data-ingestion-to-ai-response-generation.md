@@ -4,7 +4,7 @@ date: 2025-02-20T15:36:05
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/20/n8n-rag-system-with-openrouter-and-a-vector-database-the-complete-process-from-data-ingestion-to-ai-response-generation/"
 source_id: SRC-WP-6422
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/20/n8n-rag-system-with-openrouter-and-a-vector-database-the-complete-process-from-data-ingestion-to-ai-response-generation/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-20.png?w=975)

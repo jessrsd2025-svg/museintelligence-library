@@ -4,7 +4,7 @@ date: 2025-05-24T12:24:08
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/24/jessrsds-blog-app-post-api-vector-embedding-how-the-expropriation-act-causes-land-conflict-for-white-farmers-in-south-africa-the-u-s-under-eo-14204-trump/"
 source_id: SRC-WP-10111
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/24/jessrsds-blog-app-post-api-vector-embedding-how-the-expropriation-act-causes-land-conflict-for-white-farmers-in-south-africa-the-u-s-under-eo-14204-trump/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/05/image-67.png?w=417)

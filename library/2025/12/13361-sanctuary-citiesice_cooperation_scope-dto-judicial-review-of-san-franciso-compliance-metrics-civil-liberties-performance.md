@@ -4,7 +4,7 @@ date: 2025-12-23T17:45:44
 url: "https://jessrsdincyahoocom.wordpress.com/2025/12/23/sanctuary-citiesice_cooperation_scope-dto-judicial-review-of-san-franciso-compliance-metrics-civil-liberties-performance/"
 source_id: SRC-WP-13361
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/12/23/sanctuary-citiesice_cooperation_scope-dto-judicial-review-of-san-franciso-compliance-metrics-civil-liberties-performance/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***The DOJ’s role is to enforce legal boundaries, authorize broad immigration enforcement, and identify cases within the immigration population that have a nexus to Drug Trafficking Organizations (DTOs)***

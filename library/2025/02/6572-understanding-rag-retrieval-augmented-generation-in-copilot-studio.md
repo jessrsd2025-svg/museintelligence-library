@@ -4,7 +4,7 @@ date: 2025-02-25T14:05:28
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/25/understanding-rag-retrieval-augmented-generation-in-copilot-studio/"
 source_id: SRC-WP-6572
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/25/understanding-rag-retrieval-augmented-generation-in-copilot-studio/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-23.png?w=957)

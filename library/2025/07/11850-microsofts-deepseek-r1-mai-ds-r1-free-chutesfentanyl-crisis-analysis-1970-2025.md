@@ -4,7 +4,7 @@ date: 2025-07-22T15:44:34
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/22/microsofts-deepseek-r1-mai-ds-r1-free-chutesfentanyl-crisis-analysis-1970-2025/"
 source_id: SRC-WP-11850
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/22/microsofts-deepseek-r1-mai-ds-r1-free-chutesfentanyl-crisis-analysis-1970-2025/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-68.png?w=851)

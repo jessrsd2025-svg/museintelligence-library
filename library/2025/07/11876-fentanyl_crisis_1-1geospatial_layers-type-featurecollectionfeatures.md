@@ -4,7 +4,7 @@ date: 2025-07-23T12:57:18
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/23/fentanyl_crisis_1-1geospatial_layers-type-featurecollectionfeatures/"
 source_id: SRC-WP-11876
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/23/fentanyl_crisis_1-1geospatial_layers-type-featurecollectionfeatures/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-72.png?w=683)

@@ -4,7 +4,7 @@ date: 2025-07-21T14:37:56
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/21/jessrsds-blog-comprehensive-analysis-of-fentanyl-related-deaths-and-arrests-in-the-united-states-1970-2025-public-health-crisis-enforcement-and-policy-response/"
 source_id: SRC-WP-11783
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/21/jessrsds-blog-comprehensive-analysis-of-fentanyl-related-deaths-and-arrests-in-the-united-states-1970-2025-public-health-crisis-enforcement-and-policy-response/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-5.png)

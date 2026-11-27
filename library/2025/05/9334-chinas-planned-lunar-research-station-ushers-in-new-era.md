@@ -4,7 +4,7 @@ date: 2025-05-04T12:57:34
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/04/chinas-planned-lunar-research-station-ushers-in-new-era/"
 source_id: SRC-WP-9334
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/04/chinas-planned-lunar-research-station-ushers-in-new-era/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ## Space Threat Assess

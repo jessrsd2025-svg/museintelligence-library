@@ -4,7 +4,7 @@ date: 2025-07-08T11:34:39
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/08/geo-aware-alert-ingestion-api-endpoint-step-by-step-geojson-rag-alert-pipeline/"
 source_id: SRC-WP-11233
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/08/geo-aware-alert-ingestion-api-endpoint-step-by-step-geojson-rag-alert-pipeline/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-11.png?w=683)

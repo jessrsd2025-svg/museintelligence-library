@@ -4,7 +4,7 @@ date: 2025-07-22T14:27:08
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/22/%e2%9a%96%ef%b8%8f-legal-erosion-why-csa-halt-act-enforcement-faltered-1999-2025/"
 source_id: SRC-WP-11803
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/22/%e2%9a%96%ef%b8%8f-legal-erosion-why-csa-halt-act-enforcement-faltered-1999-2025/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/07/image-62.png?w=683)

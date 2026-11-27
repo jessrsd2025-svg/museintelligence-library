@@ -4,7 +4,7 @@ date: 2025-01-24T14:44:58
 url: "https://jessrsdincyahoocom.wordpress.com/2025/01/24/chinas-acquisition-of-50000-nvidia-h100-gpus-u-s-export-controls-unmanned_news_pdf/"
 source_id: SRC-WP-5775
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/01/24/chinas-acquisition-of-50000-nvidia-h100-gpus-u-s-export-controls-unmanned_news_pdf/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/01/image-15.png?w=1024)

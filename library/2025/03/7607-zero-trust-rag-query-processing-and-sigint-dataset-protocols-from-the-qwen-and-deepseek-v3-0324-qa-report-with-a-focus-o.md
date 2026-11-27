@@ -4,7 +4,7 @@ date: 2025-03-31T13:26:04
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/31/zero-trust-rag-query-processing-and-sigint-dataset-protocols-from-the-qwen-and-deepseek-v3-0324-qa-report-with-a-focus-on-defense-ai-implementation/"
 source_id: SRC-WP-7607
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/31/zero-trust-rag-query-processing-and-sigint-dataset-protocols-from-the-qwen-and-deepseek-v3-0324-qa-report-with-a-focus-on-defense-ai-implementation/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/03/image-30.png?w=957)

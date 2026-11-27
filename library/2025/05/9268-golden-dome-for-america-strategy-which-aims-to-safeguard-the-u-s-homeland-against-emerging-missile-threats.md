@@ -4,7 +4,7 @@ date: 2025-05-03T12:25:31
 url: "https://jessrsdincyahoocom.wordpress.com/2025/05/03/golden-dome-for-america-strategy-which-aims-to-safeguard-the-u-s-homeland-against-emerging-missile-threats/"
 source_id: SRC-WP-9268
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/05/03/golden-dome-for-america-strategy-which-aims-to-safeguard-the-u-s-homeland-against-emerging-missile-threats/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/05/image-4.png?w=683)

@@ -4,7 +4,7 @@ date: 2025-07-19T13:31:46
 url: "https://jessrsdincyahoocom.wordpress.com/2025/07/19/section-2-of-the-halt-fentanyl-act-amends-the-controlled-substances-act-21-u-s-c-%c2%a7-812c/"
 source_id: SRC-WP-11709
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/07/19/section-2-of-the-halt-fentanyl-act-amends-the-controlled-substances-act-21-u-s-c-%c2%a7-812c/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***Comparison of the SAFE Act and the HALT Fentanyl Act with Current Federal Law***

@@ -4,7 +4,7 @@ date: 2025-06-21T11:41:31
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/chinas-energy-dependencies-jessrsd_workflow-automation-and-extensions-pdf-12-5-2024-final-report-redacted-irgcs-role-in-regional-and-global-geopolitics-unmanned_news-pdfgraph_nodes/"
 source_id: SRC-WP-10660
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/21/chinas-energy-dependencies-jessrsd_workflow-automation-and-extensions-pdf-12-5-2024-final-report-redacted-irgcs-role-in-regional-and-global-geopolitics-unmanned_news-pdfgraph_nodes/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/06/image-30.png?w=683)

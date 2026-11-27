@@ -4,7 +4,7 @@ date: 2025-06-28T13:22:16
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/28/africom-isr-planning-intelligence-extensions-libya-disinfo-infrastructure-corridor-red-sea-chokepoints-chinese-undersea-cable-nodes/"
 source_id: SRC-WP-10957
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/28/africom-isr-planning-intelligence-extensions-libya-disinfo-infrastructure-corridor-red-sea-chokepoints-chinese-undersea-cable-nodes/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![🛰️](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/1f6f0.svg)

@@ -4,7 +4,7 @@ date: 2025-04-15T12:11:03
 url: "https://jessrsdincyahoocom.wordpress.com/2025/04/15/vector-data-embeddings-property-graph-index-plus-qwen-vl-max-multimodel-api-for-image-path-rag/"
 source_id: SRC-WP-8225
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/04/15/vector-data-embeddings-property-graph-index-plus-qwen-vl-max-multimodel-api-for-image-path-rag/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/04/image-109.png?w=358)

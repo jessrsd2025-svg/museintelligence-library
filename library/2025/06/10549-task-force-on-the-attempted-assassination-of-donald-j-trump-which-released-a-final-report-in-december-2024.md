@@ -4,7 +4,7 @@ date: 2025-06-18T12:35:22
 url: "https://jessrsdincyahoocom.wordpress.com/2025/06/18/task-force-on-the-attempted-assassination-of-donald-j-trump-which-released-a-final-report-in-december-2024/"
 source_id: SRC-WP-10549
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/06/18/task-force-on-the-attempted-assassination-of-donald-j-trump-which-released-a-final-report-in-december-2024/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **jessrsd’s Blog – @app.post(“/api/vector-embedding”)FastAPI/Flask stub server**

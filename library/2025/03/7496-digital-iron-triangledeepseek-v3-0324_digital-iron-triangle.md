@@ -4,7 +4,7 @@ date: 2025-03-28T13:02:22
 url: "https://jessrsdincyahoocom.wordpress.com/2025/03/28/digital-iron-triangledeepseek-v3-0324_digital-iron-triangle/"
 source_id: SRC-WP-7496
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/03/28/digital-iron-triangledeepseek-v3-0324_digital-iron-triangle/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ### JSON Structure for Deep Analysis: Training: “Cloud Academies” for soldiers, AI failure drills.

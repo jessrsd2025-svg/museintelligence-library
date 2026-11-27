@@ -4,7 +4,7 @@ date: 2025-02-24T15:40:18
 url: "https://jessrsdincyahoocom.wordpress.com/2025/02/24/unmanned_news_json-n8n-content-retrieval-augmented-generation-rag-workflows-n8n-mistral-small-3-free-chutes/"
 source_id: SRC-WP-6517
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2025/02/24/unmanned_news_json-n8n-content-retrieval-augmented-generation-rag-workflows-n8n-mistral-small-3-free-chutes/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2025/02/image-22.png?w=957)
