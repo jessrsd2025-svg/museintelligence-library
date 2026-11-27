@@ -4,7 +4,7 @@ date: 2026-04-16T12:14:11
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/16/unmanned_news-readingroom-american-manufacturings-next-boom-hermes-2-pro-llama-3-8b/"
 source_id: SRC-WP-13955
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/16/unmanned_news-readingroom-american-manufacturings-next-boom-hermes-2-pro-llama-3-8b/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ***“Convergence of AI Policy, Blockchain Playbook, and HR 1664 into compliance spine”

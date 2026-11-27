@@ -4,7 +4,7 @@ date: 2026-06-21T12:45:56
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/21/openclaw-nemotron-v5-3-x-american-science-cloud-amscinteragency-strategic-task-force-dynamics-istfdafrican-security-maritime-logistics-vault/"
 source_id: SRC-WP-16210
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/21/openclaw-nemotron-v5-3-x-american-science-cloud-amscinteragency-strategic-task-force-dynamics-istfdafrican-security-maritime-logistics-vault/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 AFRICAN MARITIME CHOKEPOINTS Highlighted corridors: • Bab el-Mandeb • Red Sea • Gulf of Aden • Mozambique Channel • Suez Access Routes • Gulf of Guinea

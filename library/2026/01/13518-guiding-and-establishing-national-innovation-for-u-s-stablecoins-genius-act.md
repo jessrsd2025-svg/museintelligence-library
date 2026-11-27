@@ -4,7 +4,7 @@ date: 2026-01-05T14:42:25
 url: "https://jessrsdincyahoocom.wordpress.com/2026/01/05/guiding-and-establishing-national-innovation-for-u-s-stablecoins-genius-act/"
 source_id: SRC-WP-13518
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/01/05/guiding-and-establishing-national-innovation-for-u-s-stablecoins-genius-act/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/01/image-4.png?w=1024)

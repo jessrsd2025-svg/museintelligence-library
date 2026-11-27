@@ -4,7 +4,7 @@ date: 2026-05-04T14:56:43
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/04/hermes-2-pro-llama-3-8b-grok-4-20-multi-agent-unmanned_news-reading-room-sha-256-origins-bitcoin-vs-stablecoin-analysis-lattice-inversion/"
 source_id: SRC-WP-14730
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/04/hermes-2-pro-llama-3-8b-grok-4-20-multi-agent-unmanned_news-reading-room-sha-256-origins-bitcoin-vs-stablecoin-analysis-lattice-inversion/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/05/image-9.png?w=975)

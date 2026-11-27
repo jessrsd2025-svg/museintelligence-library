@@ -4,7 +4,7 @@ date: 2026-06-06T12:22:26
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/06/unmanned_news-readingroom-red-protocol-canonical-geojson-polygon-%e2%94%80%e2%94%80%e2%96%ba-rfc-8785-jcs-%e2%94%80%e2%94%80%e2%96%ba-sha-256-hash-%e2%94%80%e2%94%80%e2%96%ba-proof-tree-anch/"
 source_id: SRC-WP-15854
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/06/unmanned_news-readingroom-red-protocol-canonical-geojson-polygon-%e2%94%80%e2%94%80%e2%96%ba-rfc-8785-jcs-%e2%94%80%e2%94%80%e2%96%ba-sha-256-hash-%e2%94%80%e2%94%80%e2%96%ba-proof-tree-anch/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://copilot.microsoft.com/shares/artifacts/htYhoz4t7yn3U6heTXjYc](https://copilot.microsoft.com/shares/artifacts/htYhoz4t7yn3U6heTXjYc)

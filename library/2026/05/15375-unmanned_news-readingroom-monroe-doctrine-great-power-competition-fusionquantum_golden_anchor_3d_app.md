@@ -4,7 +4,7 @@ date: 2026-05-21T19:37:42
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/21/unmanned_news-readingroom-monroe-doctrine-great-power-competition-fusionquantum_golden_anchor_3d_app/"
 source_id: SRC-WP-15375
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/21/unmanned_news-readingroom-monroe-doctrine-great-power-competition-fusionquantum_golden_anchor_3d_app/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Bluescape COP Storyboard — Jesse / SOUTHCOM Doral Charter

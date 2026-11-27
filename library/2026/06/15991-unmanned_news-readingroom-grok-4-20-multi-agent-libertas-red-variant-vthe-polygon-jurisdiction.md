@@ -4,7 +4,7 @@ date: 2026-06-11T12:34:49
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/11/unmanned_news-readingroom-grok-4-20-multi-agent-libertas-red-variant-vthe-polygon-jurisdiction/"
 source_id: SRC-WP-15991
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/11/unmanned_news-readingroom-grok-4-20-multi-agent-libertas-red-variant-vthe-polygon-jurisdiction/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **CALL FOR TOOLS: “THE POLYGON AS JURISDICTION” GIS/Python QGA Toolkit**

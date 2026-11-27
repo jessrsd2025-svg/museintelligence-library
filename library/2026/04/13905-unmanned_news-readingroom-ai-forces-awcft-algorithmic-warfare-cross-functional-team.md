@@ -4,7 +4,7 @@ date: 2026-04-14T13:11:21
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/14/unmanned_news-readingroom-ai-forces-awcft-algorithmic-warfare-cross-functional-team/"
 source_id: SRC-WP-13905
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/14/unmanned_news-readingroom-ai-forces-awcft-algorithmic-warfare-cross-functional-team/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **The Army’s “Digital Iron Triangle”—cloud, AI, and talent innovation in RAG technology, “CCA cloud integration”**

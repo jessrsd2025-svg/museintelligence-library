@@ -4,7 +4,7 @@ date: 2026-06-16T12:10:10
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/16/unmanned_news-readingroom%f0%9f%93%8b-libertas-red-variant-v-complete-artifact-map-cartography-v3-panel-project-plan-gis-python-qga-toolkit/"
 source_id: SRC-WP-16110
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/16/unmanned_news-readingroom%f0%9f%93%8b-libertas-red-variant-v-complete-artifact-map-cartography-v3-panel-project-plan-gis-python-qga-toolkit/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

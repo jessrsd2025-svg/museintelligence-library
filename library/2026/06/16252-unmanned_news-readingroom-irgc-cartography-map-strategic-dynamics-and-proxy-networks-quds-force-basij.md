@@ -4,7 +4,7 @@ date: 2026-06-23T11:43:28
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/23/unmanned_news-readingroom-irgc-cartography-map-strategic-dynamics-and-proxy-networks-quds-force-basij/"
 source_id: SRC-WP-16252
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/23/unmanned_news-readingroom-irgc-cartography-map-strategic-dynamics-and-proxy-networks-quds-force-basij/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 OpenClaw-Nemotron v5.3 × American Science Cloud (AmSC) Core Layer American Science Cloud Intelligence Rendering Architecture

@@ -4,7 +4,7 @@ date: 2026-05-20T13:09:52
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/20/unmanned_news-reading-room-quantum-golden-library-il5-anchor-lattice-intelligence-ingested-artifact-q_0f11-microsoft-wizardlm-2-8x22b-doral-charter-southcom-great-power-competition/"
 source_id: SRC-WP-15324
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/20/unmanned_news-reading-room-quantum-golden-library-il5-anchor-lattice-intelligence-ingested-artifact-q_0f11-microsoft-wizardlm-2-8x22b-doral-charter-southcom-great-power-competition/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Unmanned_News Cypher template Library_Microsoft WizardLM 2 8 22B Doral Charter SOUTHCOM BLUESCAPE **Quantum Golden Library** 3d Nodes frame 11 laye

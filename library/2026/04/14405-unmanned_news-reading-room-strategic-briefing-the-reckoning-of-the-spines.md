@@ -4,7 +4,7 @@ date: 2026-04-26T13:19:45
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/26/unmanned_news-reading-room-strategic-briefing-the-reckoning-of-the-spines/"
 source_id: SRC-WP-14405
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/26/unmanned_news-reading-room-strategic-briefing-the-reckoning-of-the-spines/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-69.png?w=957)

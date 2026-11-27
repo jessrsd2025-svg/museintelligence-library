@@ -4,7 +4,7 @@ date: 2026-04-26T12:12:55
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/26/unmanned_news-readingroom-american-manufacturings-next-boom-hermes-2-pro-llama-3-8b-2/"
 source_id: SRC-WP-14364
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/26/unmanned_news-readingroom-american-manufacturings-next-boom-hermes-2-pro-llama-3-8b-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-62.png?w=957)

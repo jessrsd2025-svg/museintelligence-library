@@ -4,7 +4,7 @@ date: 2026-06-13T11:16:09
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/13/unmanned_news-reading-room-libertas-red-variant-v-call-for-tools-polymarket-editionthe-polygon-as-jurisdiction-applied-to-prediction-markets-gemini-2-5-flas/"
 source_id: SRC-WP-16050
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/13/unmanned_news-reading-room-libertas-red-variant-v-call-for-tools-polymarket-editionthe-polygon-as-jurisdiction-applied-to-prediction-markets-gemini-2-5-flas/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Classification: IL5‑CUI // NOFORN // WARM‑OPERATIONAL

@@ -4,7 +4,7 @@ date: 2026-06-22T13:12:47
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/22/unmanned_news-readingroom-copilot-search-the-quds-force-external-covert-operations/"
 source_id: SRC-WP-16233
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/22/unmanned_news-readingroom-copilot-search-the-quds-force-external-covert-operations/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **The Iranian-Revolutionary-Guard-Corps’-Influence-in-Africa- (1).pdf

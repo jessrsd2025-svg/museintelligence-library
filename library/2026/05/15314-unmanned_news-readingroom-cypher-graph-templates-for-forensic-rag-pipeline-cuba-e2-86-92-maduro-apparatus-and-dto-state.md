@@ -4,7 +4,7 @@ date: 2026-05-19T13:50:33
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/19/unmanned_news-readingroom-cypher-graph-templates-for-forensic-rag-pipeline-cuba-%e2%86%92-maduro-apparatus-and-dto-state-adjacencyfeature-properties/"
 source_id: SRC-WP-15314
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/19/unmanned_news-readingroom-cypher-graph-templates-for-forensic-rag-pipeline-cuba-%e2%86%92-maduro-apparatus-and-dto-state-adjacencyfeature-properties/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/05/image-74.png?w=957)

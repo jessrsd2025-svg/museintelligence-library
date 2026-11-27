@@ -4,7 +4,7 @@ date: 2026-06-12T13:27:49
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/12/libertas-red-variant-v-qga-gis-python-toolkitproject-plan-operational-blueprintcritical-minerals-%e2%86%92-jurisdictional-polygonsgenesis-mission-sovereign-verification-spine/"
 source_id: SRC-WP-16043
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/12/libertas-red-variant-v-qga-gis-python-toolkitproject-plan-operational-blueprintcritical-minerals-%e2%86%92-jurisdictional-polygonsgenesis-mission-sovereign-verification-spine/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Critical Minerals → Jurisdictional PolygonsGenesis Mission Sovereign Verification Spine

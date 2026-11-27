@@ -4,7 +4,7 @@ date: 2026-04-17T14:13:09
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/17/unmanned_news-reading-room-open-source-intelligence-brief-openclawnemotron-v2-2hermes-2-pro-llama-3-8b/"
 source_id: SRC-WP-13977
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/17/unmanned_news-reading-room-open-source-intelligence-brief-openclawnemotron-v2-2hermes-2-pro-llama-3-8b/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-20.png?w=608)

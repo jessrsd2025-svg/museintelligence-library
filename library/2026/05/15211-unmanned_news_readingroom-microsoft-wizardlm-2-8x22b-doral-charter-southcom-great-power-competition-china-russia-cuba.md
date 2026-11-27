@@ -4,7 +4,7 @@ date: 2026-05-17T13:01:03
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/17/unmanned_news_readingroom-microsoft-wizardlm-2-8x22b-doral-charter-southcom-great-power-competition-china-russia-cuba/"
 source_id: SRC-WP-15211
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/17/unmanned_news_readingroom-microsoft-wizardlm-2-8x22b-doral-charter-southcom-great-power-competition-china-russia-cuba/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Unmanned_News Reading Room · AXIOM_8Strategic Doctrine Brief —

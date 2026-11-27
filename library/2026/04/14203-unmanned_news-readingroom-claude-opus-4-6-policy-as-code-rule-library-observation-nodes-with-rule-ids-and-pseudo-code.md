@@ -4,7 +4,7 @@ date: 2026-04-23T11:52:03
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/23/unmanned_news-readingroom-claude-opus-4-6-policy-as-code-rule-library-observation-nodes-with-rule-ids-and-pseudo-code/"
 source_id: SRC-WP-14203
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/23/unmanned_news-readingroom-claude-opus-4-6-policy-as-code-rule-library-observation-nodes-with-rule-ids-and-pseudo-code/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-43.png?w=957)

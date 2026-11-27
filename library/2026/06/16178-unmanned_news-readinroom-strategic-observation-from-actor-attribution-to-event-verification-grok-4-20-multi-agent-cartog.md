@@ -4,7 +4,7 @@ date: 2026-06-19T12:51:11
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/19/unmanned_news-readinroom-strategic-observation-from-actor-attribution-to-event-verification-grok-4-20-multi-agent-cartography-map-v3/"
 source_id: SRC-WP-16178
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/19/unmanned_news-readinroom-strategic-observation-from-actor-attribution-to-event-verification-grok-4-20-multi-agent-cartography-map-v3/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)Unmanned_News ReadinRoom Strategic Observation: From Actor Attribution to Event Verification: GROK 4.20 MULTI-AGENT CARTOGRAPHY MAP v3][DATE INTEGRATED: 19 JUNE 2026][AMERICAN SCIENCE CLOUD

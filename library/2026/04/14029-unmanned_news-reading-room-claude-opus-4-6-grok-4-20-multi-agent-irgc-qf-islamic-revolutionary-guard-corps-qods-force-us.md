@@ -4,7 +4,7 @@ date: 2026-04-18T12:50:39
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/18/unmanned_news-reading-room-claude-opus-4-6-grok-4-20-multi-agent-irgc-qf-islamic-revolutionary-guard-corps-qods-force-use-of-blockchain-and-cryptocurrency/"
 source_id: SRC-WP-14029
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/18/unmanned_news-reading-room-claude-opus-4-6-grok-4-20-multi-agent-irgc-qf-islamic-revolutionary-guard-corps-qods-force-use-of-blockchain-and-cryptocurrency/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-25.png?w=957)

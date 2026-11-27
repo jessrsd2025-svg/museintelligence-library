@@ -4,7 +4,7 @@ date: 2026-06-25T14:25:34
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/25/unammed_news-readingroom-the-american-science-cloud-amsc-foreign-policy-instruments-the-irgc-triptych-https-lnkd-in-ebd46cw5/"
 source_id: SRC-WP-16273
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/25/unammed_news-readingroom-the-american-science-cloud-amsc-foreign-policy-instruments-the-irgc-triptych-https-lnkd-in-ebd46cw5/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **OpenClaw-Nemotron v5.3** × American Science Cloud (AmSC) DoD Impact Level 5 (IL5) // FedRAMP Moderate+ Overlays // NIST 800-53 Rev5 TACTICAL CORE: Multi-Agent Telemetry Ingress amp; Structural Event Verification Mapping PROVENANCE SEAL

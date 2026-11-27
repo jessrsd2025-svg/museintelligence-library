@@ -4,7 +4,7 @@ date: 2026-05-07T15:18:59
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/07/unmanned_news-readingroom-kimi-k2-cinematic-interrogation-sequence-narrative-artifact-quantum-lattice-anchored-fips-180-2/"
 source_id: SRC-WP-14865
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/07/unmanned_news-readingroom-kimi-k2-cinematic-interrogation-sequence-narrative-artifact-quantum-lattice-anchored-fips-180-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 (classical forensic substrate) + FIPS 203/204 (post-quantum shield) + QSSN overlay. SHA-256 origins, Bitcoin vs. Stablecoin analysis, the DCA report, Neo4j graphOpenClaw Nemotron v5.3 (an AI/policy system) A full FeatureCollection with all corridors, lattice nodes, and external surfaces

@@ -4,7 +4,7 @@ date: 2026-05-05T13:27:16
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/05/unmanned_news-readingroom-hermes-2-pro-kimi-k2-cinematic-interrogation-sequence-narrative-artifact-sha-256-origins-of-bitcoin-vs-stablecoin-analysis-and-terminal-synthesis-grok-4-20-multi/"
 source_id: SRC-WP-14754
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/05/unmanned_news-readingroom-hermes-2-pro-kimi-k2-cinematic-interrogation-sequence-narrative-artifact-sha-256-origins-of-bitcoin-vs-stablecoin-analysis-and-terminal-synthesis-grok-4-20-multi/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/05/image-12.png?w=957)

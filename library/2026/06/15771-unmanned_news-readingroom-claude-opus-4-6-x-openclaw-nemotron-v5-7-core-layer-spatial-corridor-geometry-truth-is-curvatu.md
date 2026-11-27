@@ -4,7 +4,7 @@ date: 2026-06-02T13:43:45
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/02/unmanned_news-readingroom-claude-opus-4-6-x-openclaw-nemotron-v5-7-core-layer-spatial-corridor-geometry-truth-is-curvature-axiom-2/"
 source_id: SRC-WP-15771
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/02/unmanned_news-readingroom-claude-opus-4-6-x-openclaw-nemotron-v5-7-core-layer-spatial-corridor-geometry-truth-is-curvature-axiom-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Substrate:** Claude Opus 4.6 × Unmanned_News Reading Room

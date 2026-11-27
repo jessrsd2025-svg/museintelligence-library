@@ -4,7 +4,7 @@ date: 2026-04-02T13:48:20
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/02/unmanned_news_readingroom-dc_regulatory_spinefederal-geojson-graphrag-profile-and-the-policy-snapshot/"
 source_id: SRC-WP-13746
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/02/unmanned_news_readingroom-dc_regulatory_spinefederal-geojson-graphrag-profile-and-the-policy-snapshot/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Governance Model**: Multi-layer intelligence package (GeoJSON overlay with amber anomaly markers, policy lineage tree, provenance chain, risk heatmap) pushed to Bluescape COP. Corridor state refreshed in real time against the Agentic Tool Call Ecosystem diagram.

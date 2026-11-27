@@ -4,7 +4,7 @@ date: 2026-05-01T14:22:44
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/01/unmanned_news-reading-room-strategic-briefing-the-origin-of-the-dc-regulatory-spine-anchor-how-the-nsas-mathematics-became-americas-constitutional-machine/"
 source_id: SRC-WP-14592
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/01/unmanned_news-reading-room-strategic-briefing-the-origin-of-the-dc-regulatory-spine-anchor-how-the-nsas-mathematics-became-americas-constitutional-machine/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/05/image-3.png?w=957)

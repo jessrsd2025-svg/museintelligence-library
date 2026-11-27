@@ -4,7 +4,7 @@ date: 2026-06-09T13:01:48
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/09/unmanned_news-readingroom-red-protocol-canonical-geojson-polygon-%e2%94%80%e2%94%80%e2%96%ba-rfc-8785-jcs-%e2%94%80%e2%94%80%e2%96%ba-sha-256-hash-%e2%94%80%e2%94%80%e2%96%ba-proof-tree-anchor/"
 source_id: SRC-WP-15936
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/09/unmanned_news-readingroom-red-protocol-canonical-geojson-polygon-%e2%94%80%e2%94%80%e2%96%ba-rfc-8785-jcs-%e2%94%80%e2%94%80%e2%96%ba-sha-256-hash-%e2%94%80%e2%94%80%e2%96%ba-proof-tree-anchor/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 WordPress / GraphRAG Publication Layer — jessrsdinc blog provenance architecture, GeoJSON/GraphRAG tag bundle, plug-and-play ingestion pipeline

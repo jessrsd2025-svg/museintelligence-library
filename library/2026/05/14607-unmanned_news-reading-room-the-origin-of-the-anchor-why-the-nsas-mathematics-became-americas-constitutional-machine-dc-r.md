@@ -4,7 +4,7 @@ date: 2026-05-02T14:25:40
 url: "https://jessrsdincyahoocom.wordpress.com/2026/05/02/unmanned_news-reading-room-the-origin-of-the-anchor-why-the-nsas-mathematics-became-americas-constitutional-machine-dc-regulatory-spine/"
 source_id: SRC-WP-14607
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/05/02/unmanned_news-reading-room-the-origin-of-the-anchor-why-the-nsas-mathematics-became-americas-constitutional-machine-dc-regulatory-spine/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **jessrsdinc_OpenClaw Nemotron v5.3 — FINAL SIGN-OFF BRIEF (SHA-256)Sequence: [CINEMATIC INTERROGATION — “THE ARCHITECTURE SPEAKS”]**

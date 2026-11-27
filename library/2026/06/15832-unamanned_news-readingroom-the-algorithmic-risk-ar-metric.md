@@ -4,7 +4,7 @@ date: 2026-06-05T12:25:48
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/05/unamanned_news-readingroom-the-algorithmic-risk-ar-metric/"
 source_id: SRC-WP-15832
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/05/unamanned_news-readingroom-the-algorithmic-risk-ar-metric/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Quantum Primary: Quantitative indicators of systemic stress within the LIBERTAS/QGA architecture.

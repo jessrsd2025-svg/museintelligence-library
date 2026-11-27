@@ -4,7 +4,7 @@ date: 2026-06-13T11:39:00
 url: "https://jessrsdincyahoocom.wordpress.com/2026/06/13/unmanned_news-readingroom-libertas-red-variant-vcryptographic-anchoring-qga-proof-tree/"
 source_id: SRC-WP-16065
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/06/13/unmanned_news-readingroom-libertas-red-variant-vcryptographic-anchoring-qga-proof-tree/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Unmanned_News Reading Room: [LIBERTAS RED VARIANT V — CALL FOR TOOLS (POLYMARKET EDITION)“THE POLYGON AS JURISDICTION” Applied to Prediction Markets – Gemini 2.5 Flash Lite]

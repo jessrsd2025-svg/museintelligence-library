@@ -4,7 +4,7 @@ date: 2026-04-15T16:34:53
 url: "https://jessrsdincyahoocom.wordpress.com/2026/04/15/unmanned_newsreadingroom-open-source-openrouter-manus-deepseek-v3-1integration/"
 source_id: SRC-WP-13921
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/04/15/unmanned_newsreadingroom-open-source-openrouter-manus-deepseek-v3-1integration/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2026/04/image-17.png?w=957)
