@@ -4,7 +4,7 @@ date: 2024-07-16T12:56:05
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/16/dr-radha-plumb-chief-digital-and-artificial-intelligence-officer-at-the-department-of-defense-dod-replicator-conversational-swarm-intelligence-csi/"
 source_id: SRC-WP-3162
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/16/dr-radha-plumb-chief-digital-and-artificial-intelligence-officer-at-the-department-of-defense-dod-replicator-conversational-swarm-intelligence-csi/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **A Focus on Conversational AI to AI, Data-Driven Decision-Making**

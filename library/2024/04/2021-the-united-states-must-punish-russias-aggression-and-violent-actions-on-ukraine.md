@@ -4,7 +4,7 @@ date: 2024-04-28T12:02:31
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/28/the-united-states-must-punish-russias-aggression-and-violent-actions-on-ukraine/"
 source_id: SRC-WP-2021
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/28/the-united-states-must-punish-russias-aggression-and-violent-actions-on-ukraine/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Long-Term Commitment**: Supporting Ukraine’s sovereignty extends beyond the immediate conflict. [It involves building a strong future force capable of deterring future aggression](https://www.marshallcenter.org/en/publications/perspectives/stability-challenges-and-opportunities-regarding-russo-ukrainian-war-0).

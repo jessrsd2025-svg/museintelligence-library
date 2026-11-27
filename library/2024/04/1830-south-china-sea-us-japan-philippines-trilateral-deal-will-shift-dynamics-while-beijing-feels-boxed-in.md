@@ -4,7 +4,7 @@ date: 2024-04-13T13:57:43
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/13/south-china-sea-us-japan-philippines-trilateral-deal-will-shift-dynamics-while-beijing-feels-boxed-in/"
 source_id: SRC-WP-1830
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/13/south-china-sea-us-japan-philippines-trilateral-deal-will-shift-dynamics-while-beijing-feels-boxed-in/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - The **Luzon Economic Corridor** has been launched, connecting Subic Bay, Clark, Manila, and Batangas in the Philippines. [This corridor aims to enhance connectivity and trade in the region](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/)[1](https://www.whitehouse.gov/briefing-room/statements-releases/2024/04/11/joint-vision-statement-from-the-leaders-of-japan-the-philippines-and-the-united-states/).

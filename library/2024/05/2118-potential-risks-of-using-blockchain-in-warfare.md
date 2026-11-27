@@ -4,7 +4,7 @@ date: 2024-05-04T12:19:30
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/04/potential-risks-of-using-blockchain-in-warfare/"
 source_id: SRC-WP-2118
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/04/potential-risks-of-using-blockchain-in-warfare/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **The influence of BRICS on the global economy, the application of blockchain in military logistics, the emergence of state-backed digital currencies, and China’s innovative incentive systems are all shaping the dynamic terrain of international relations and finance. Additionally, China’s military is delving into the use of blockchain technology.**

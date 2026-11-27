@@ -4,7 +4,7 @@ date: 2024-05-26T14:02:06
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/26/the-uae-partnership-with-microsoft/"
 source_id: SRC-WP-2413
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/26/the-uae-partnership-with-microsoft/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ## The partnership between Microsoft and UAE’s G42 (based in Abu Dhabi), spearheaded by the U.S. Department of Commerce under Secretary Gina Raimondo’s leadership.

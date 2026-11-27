@@ -4,7 +4,7 @@ date: 2024-09-04T13:18:05
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/04/the-cipher-brief-how-regional-dynamics-in-middle-east-impact-a-ceasefire/"
 source_id: SRC-WP-3347
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/04/the-cipher-brief-how-regional-dynamics-in-middle-east-impact-a-ceasefire/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/company/dodsbirsttr/posts](https://www.linkedin.com/company/dodsbirsttr/posts)

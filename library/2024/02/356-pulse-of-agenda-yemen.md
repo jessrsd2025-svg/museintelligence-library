@@ -4,7 +4,7 @@ date: 2024-02-09T12:46:18
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/pulse-of-agenda-yemen/"
 source_id: SRC-WP-356
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/pulse-of-agenda-yemen/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [**Humanitarian Crisis**: Yemen continues to face one of the world’s largest humanitarian crises, with over 21 million people in need of assistance1](https://www.hrw.org/world-report/2024/country-chapters/yemen).

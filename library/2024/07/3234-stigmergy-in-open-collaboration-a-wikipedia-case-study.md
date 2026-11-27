@@ -4,7 +4,7 @@ date: 2024-07-21T14:27:18
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/21/stigmergy-in-open-collaboration-a-wikipedia-case-study/"
 source_id: SRC-WP-3234
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/21/stigmergy-in-open-collaboration-a-wikipedia-case-study/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/07/image-21.png?w=331)

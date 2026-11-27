@@ -4,7 +4,7 @@ date: 2024-06-19T14:07:35
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/19/saudi-arabias-investment-in-chinese-startup-jeo-ai-national-security-experts-see-that-dichotomy-and-are-racing-to-harness-ai-for-intelligence-gathering-mindful-that-many-adversaries-have-o/"
 source_id: SRC-WP-2759
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/19/saudi-arabias-investment-in-chinese-startup-jeo-ai-national-security-experts-see-that-dichotomy-and-are-racing-to-harness-ai-for-intelligence-gathering-mindful-that-many-adversaries-have-o/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Zhipu AI’s Meta-Transfer Learning: A Leap Forward in Few-Shot Learning Zhipu AIhas made a remarkable contribution to the field of machine learning with its innovative meta-transfer learning (MTL) methods. This approach is designed to tackle the challenges of few-shot learning tasks, where a model must learn from a very limited amount of data.

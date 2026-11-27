@@ -4,7 +4,7 @@ date: 2024-06-21T13:31:39
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/21/the-strategic-alliance-saudi-aramcos-investment-in-zhipu-ai-and-its-impact-on-china-saudi-arabia-relations/"
 source_id: SRC-WP-2803
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/21/the-strategic-alliance-saudi-aramcos-investment-in-zhipu-ai-and-its-impact-on-china-saudi-arabia-relations/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The investment by **Saudi Aramco** in **Zhipu AI** indeed marks a significant milestone in China-Saudi Arabia relations. The recent investment by Saudi Aramco’s Prosperity7 Ventures in the Chinese AI startup Zhipu AI is not just a financial transaction; it represents a pivotal moment in the evolving relationship between China and Saudi Arabia. This move signifies a deepening of ties that transcends traditional oil partnerships, venturing into the dynamic realm of technology and innovation.

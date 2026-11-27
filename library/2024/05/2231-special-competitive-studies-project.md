@@ -4,7 +4,7 @@ date: 2024-05-11T12:00:05
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/11/special-competitive-studies-project/"
 source_id: SRC-WP-2231
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/11/special-competitive-studies-project/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Artificial Intelligence (AI) and National Security: A Strategic Overview

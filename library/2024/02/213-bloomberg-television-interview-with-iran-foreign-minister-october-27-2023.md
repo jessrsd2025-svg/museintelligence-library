@@ -4,7 +4,7 @@ date: 2024-02-04T23:15:57
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/04/bloomberg-television-interview-with-iran-foreign-minister-october-27-2023/"
 source_id: SRC-WP-213
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/04/bloomberg-television-interview-with-iran-foreign-minister-october-27-2023/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Embedded media](https://www.youtube.com/embed/xNJrho9t9LI?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en&autohide=2&wmode=transparent)

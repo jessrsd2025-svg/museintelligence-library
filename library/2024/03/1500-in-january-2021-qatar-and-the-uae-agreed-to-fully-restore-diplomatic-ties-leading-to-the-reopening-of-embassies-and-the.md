@@ -4,7 +4,7 @@ date: 2024-03-12T13:26:33
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/12/in-january-2021-qatar-and-the-uae-agreed-to-fully-restore-diplomatic-ties-leading-to-the-reopening-of-embassies-and-the-resumption-of-diplomatic-representation-this-reconciliation-was-part-of/"
 source_id: SRC-WP-1500
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/12/in-january-2021-qatar-and-the-uae-agreed-to-fully-restore-diplomatic-ties-leading-to-the-reopening-of-embassies-and-the-resumption-of-diplomatic-representation-this-reconciliation-was-part-of/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > The most recent economic diplomacy between the United Arab Emirates (UAE) and Qatar following a years-long rift that began in 2017, the two nations have taken steps to improve relations. Their engagement with and support for the Islamist Brotherhood.

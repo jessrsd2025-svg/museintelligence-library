@@ -4,7 +4,7 @@ date: 2024-06-02T12:49:25
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/02/u-s-defense-secretary-lloyd-j-austin-iiis-keynote-address-at-the-2024-shangri-la-dialogue-iiss/"
 source_id: SRC-WP-2608
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/02/u-s-defense-secretary-lloyd-j-austin-iiis-keynote-address-at-the-2024-shangri-la-dialogue-iiss/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-6.png?w=790)

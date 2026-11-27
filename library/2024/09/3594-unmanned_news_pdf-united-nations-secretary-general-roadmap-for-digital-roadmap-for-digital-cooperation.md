@@ -4,7 +4,7 @@ date: 2024-09-23T14:08:31
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/23/unmanned_news_pdf-united-nations-secretary-general-roadmap-for-digital-roadmap-for-digital-cooperation/"
 source_id: SRC-WP-3594
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/23/unmanned_news_pdf-united-nations-secretary-general-roadmap-for-digital-roadmap-for-digital-cooperation/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/flagship3jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM](https://www.linkedin.com/in/flagship3jesse-marshall-2613b94b?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAAqPTSkBeQ6WiFBmMkWIndknmbkWgggn0gM)

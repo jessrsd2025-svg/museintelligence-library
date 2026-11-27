@@ -4,7 +4,7 @@ date: 2024-05-23T15:41:50
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/23/secretary-austin-stressed-the-urgent-need-to-increase-humanitarian-assistance-to-gaza/"
 source_id: SRC-WP-2380
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/23/secretary-austin-stressed-the-urgent-need-to-increase-humanitarian-assistance-to-gaza/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/ffd947f7-2cc3-47b1-8c3a-34e779a4d87b)

@@ -4,7 +4,7 @@ date: 2024-03-30T16:03:17
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/30/the-uaes-qatars-historic-economic-diplomacy-from-the-persian-arabian-gulf-to-the-red-sea-extends-through-its-diplomatic-efforts-and-economic-investments/"
 source_id: SRC-WP-1692
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/30/the-uaes-qatars-historic-economic-diplomacy-from-the-persian-arabian-gulf-to-the-red-sea-extends-through-its-diplomatic-efforts-and-economic-investments/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/03/image-40.png?w=427)

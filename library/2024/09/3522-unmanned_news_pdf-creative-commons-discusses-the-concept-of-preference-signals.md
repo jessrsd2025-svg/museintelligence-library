@@ -4,7 +4,7 @@ date: 2024-09-17T14:05:29
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/17/unmanned_news_pdf-creative-commons-discusses-the-concept-of-preference-signals/"
 source_id: SRC-WP-3522
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/17/unmanned_news_pdf-creative-commons-discusses-the-concept-of-preference-signals/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ### Fostering Commons-Based Participation in Generative AI

@@ -4,7 +4,7 @@ date: 2024-01-15T15:29:34
 url: "https://jessrsdincyahoocom.wordpress.com/2024/01/15/jon-alterman-csis-and-rafat-al-akhali-lse-oxford-commission-discuss-yemens-political-and-social-landscape-conflict-resolution-peace-and-development/"
 source_id: SRC-WP-53
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/15/jon-alterman-csis-and-rafat-al-akhali-lse-oxford-commission-discuss-yemens-political-and-social-landscape-conflict-resolution-peace-and-development/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Jan 12, 2024 Babel: Translating the Middle East

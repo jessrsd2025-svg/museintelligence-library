@@ -4,7 +4,7 @@ date: 2024-03-07T13:13:36
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-uae-sees-sudan-as-a-crucial-partner-in-its-ambition-to-become-the-leading-arab-and-persian-gulf-state-in-the-red-sea-region-which-connects-the-suez-canal-and-the-bab-el-mandeb-strait/"
 source_id: SRC-WP-1403
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-uae-sees-sudan-as-a-crucial-partner-in-its-ambition-to-become-the-leading-arab-and-persian-gulf-state-in-the-red-sea-region-which-connects-the-suez-canal-and-the-bab-el-mandeb-strait/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > The UAE’s Geopolitical Influence and objective in Sudan

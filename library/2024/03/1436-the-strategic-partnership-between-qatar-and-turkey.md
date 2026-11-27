@@ -4,7 +4,7 @@ date: 2024-03-10T13:03:26
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/10/the-strategic-partnership-between-qatar-and-turkey/"
 source_id: SRC-WP-1436
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/10/the-strategic-partnership-between-qatar-and-turkey/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 In the Red Sea region, Qatar’s influence extends through its diplomatic efforts and economic investments.

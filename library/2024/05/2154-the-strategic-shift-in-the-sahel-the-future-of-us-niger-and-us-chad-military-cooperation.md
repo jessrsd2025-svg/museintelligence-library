@@ -4,7 +4,7 @@ date: 2024-05-07T12:59:47
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/07/the-strategic-shift-in-the-sahel-the-future-of-us-niger-and-us-chad-military-cooperation/"
 source_id: SRC-WP-2154
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/07/the-strategic-shift-in-the-sahel-the-future-of-us-niger-and-us-chad-military-cooperation/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Jama’at Nusrat al-Islam wal Muslimeen (JNIM)**:

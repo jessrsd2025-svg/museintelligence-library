@@ -4,7 +4,7 @@ date: 2024-02-09T17:46:48
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/the-battle-for-andriivka/"
 source_id: SRC-WP-395
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/the-battle-for-andriivka/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/01u.jpg?w=474)

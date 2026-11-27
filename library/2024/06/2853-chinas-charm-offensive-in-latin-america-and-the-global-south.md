@@ -4,7 +4,7 @@ date: 2024-06-25T13:24:45
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/25/chinas-charm-offensive-in-latin-america-and-the-global-south/"
 source_id: SRC-WP-2853
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/25/chinas-charm-offensive-in-latin-america-and-the-global-south/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [A comprehensive Analysis of China’s strategic Communication Strategy Across the Global South Region [Part III: Image, Academia, and Technology]](https://digitalcommons.fiu.edu/jgi_research/57/) by FIU Digital Commons, Research Publications 57

@@ -4,7 +4,7 @@ date: 2024-05-03T14:31:03
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/03/polonium-proxy-warfare-and-irans-cyber-strategy-russias-role-in-the-brics-gold-backed-blockchain-adoption/"
 source_id: SRC-WP-2104
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/03/polonium-proxy-warfare-and-irans-cyber-strategy-russias-role-in-the-brics-gold-backed-blockchain-adoption/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Both Iran and Russia exploit blockchain’s features to fund proxy warfare, evade sanctions, and maintain strategic advantages. [Addressing these challenges requires international cooperation and robust regulatory frameworks](https://swfound.org/media/207797/future-warfare-and-critical-technologies_feb-2024.pdf)

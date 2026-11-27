@@ -4,7 +4,7 @@ date: 2024-02-19T12:57:49
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/military-escalation-and-humanitarian-concerns-a-military-confrontation-with-iran-could-result-in-significant-casualties-and-humanitarian-crises-both-directly-in-the-conflict-zone-and-through-seconda/"
 source_id: SRC-WP-946
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/military-escalation-and-humanitarian-concerns-a-military-confrontation-with-iran-could-result-in-significant-casualties-and-humanitarian-crises-both-directly-in-the-conflict-zone-and-through-seconda/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Summary of India_Iran North South Transport Corridor (NSTC) and the India_UAE_Saudi Arabia deal 2023 | G20 Summit IMEC corridor | UPSC current affairs**

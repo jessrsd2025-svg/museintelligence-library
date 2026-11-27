@@ -4,7 +4,7 @@ date: 2024-05-21T12:38:24
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/21/dod-strategies-for-rapid-capability-delivery/"
 source_id: SRC-WP-2351
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/21/dod-strategies-for-rapid-capability-delivery/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **The US Joint Force must remain agile, adaptive, and forward-thinking to address evolving threats and protect global stability.**

@@ -4,7 +4,7 @@ date: 2024-03-28T14:03:51
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/28/privacy-impact-assessment-mortgage-fraud-database/"
 source_id: SRC-WP-1666
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/28/privacy-impact-assessment-mortgage-fraud-database/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/03/fraud-risk-assessment-risk.jpeg?w=638)

@@ -4,7 +4,7 @@ date: 2024-06-22T15:42:26
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/22/what-are-the-ethical-implications-of-recursive-self-improvement-how-can-we-ensure-responsible-ai-development-during-this-process-openais-approach-to-safety-i/"
 source_id: SRC-WP-2816
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/22/what-are-the-ethical-implications-of-recursive-self-improvement-how-can-we-ensure-responsible-ai-development-during-this-process-openais-approach-to-safety-i/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-29.png?w=957)

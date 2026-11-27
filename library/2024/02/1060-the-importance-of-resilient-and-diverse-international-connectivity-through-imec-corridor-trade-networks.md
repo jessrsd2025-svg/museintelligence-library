@@ -4,7 +4,7 @@ date: 2024-02-21T12:37:55
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/21/the-importance-of-resilient-and-diverse-international-connectivity-through-imec-corridor-trade-networks/"
 source_id: SRC-WP-1060
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/21/the-importance-of-resilient-and-diverse-international-connectivity-through-imec-corridor-trade-networks/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/vietnam-india-to-iran-corridor-4.jpeg?w=1024)

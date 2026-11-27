@@ -4,7 +4,7 @@ date: 2024-05-08T13:59:09
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/08/the-intersection-of-national-security-and-5g-technology/"
 source_id: SRC-WP-2189
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/08/the-intersection-of-national-security-and-5g-technology/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Drawing insights from the Center for Strategic and International Studies (CSIS) and the Department of Commerce.**

@@ -4,7 +4,7 @@ date: 2024-04-05T14:43:52
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/05/the-chief-digital-and-artificial-intelligence-office-cdao/"
 source_id: SRC-WP-1746
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/05/the-chief-digital-and-artificial-intelligence-office-cdao/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/04/image-4.png?w=794)

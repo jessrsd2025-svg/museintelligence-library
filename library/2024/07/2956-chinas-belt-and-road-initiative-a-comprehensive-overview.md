@@ -4,7 +4,7 @@ date: 2024-07-04T10:56:34
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/04/chinas-belt-and-road-initiative-a-comprehensive-overview/"
 source_id: SRC-WP-2956
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/04/chinas-belt-and-road-initiative-a-comprehensive-overview/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/07/image-1.png?w=746)

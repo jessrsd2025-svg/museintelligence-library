@@ -4,7 +4,7 @@ date: 2024-02-17T15:04:53
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/17/what-is-the-relationship-between-the-oic-and-the-arab-one-road-silk-road/"
 source_id: SRC-WP-836
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/17/what-is-the-relationship-between-the-oic-and-the-arab-one-road-silk-road/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/the-middle-easts-cold-war-explained-2.jpeg?w=350)

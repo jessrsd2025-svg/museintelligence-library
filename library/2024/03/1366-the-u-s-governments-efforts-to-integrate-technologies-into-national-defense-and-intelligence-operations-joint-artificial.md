@@ -4,7 +4,7 @@ date: 2024-03-06T16:50:22
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/06/the-u-s-governments-efforts-to-integrate-technologies-into-national-defense-and-intelligence-operations-joint-artificial-intelligence-center-jaic-office-of-the-director-of-national-intell/"
 source_id: SRC-WP-1366
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/06/the-u-s-governments-efforts-to-integrate-technologies-into-national-defense-and-intelligence-operations-joint-artificial-intelligence-center-jaic-office-of-the-director-of-national-intell/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/?wt.mc_id=learnnurture_welcome_email_cnl&source=docs&sharingId=C7336DC3744F413C&ns-enrollment-type=Collection&ns-enrollment-id=m6ygh526wwnx78

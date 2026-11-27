@@ -4,7 +4,7 @@ date: 2024-03-04T13:13:29
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/04/timeline-of-proxy-attacks-iraq-syria-and-jordan/"
 source_id: SRC-WP-1313
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/04/timeline-of-proxy-attacks-iraq-syria-and-jordan/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/03/syria-jordan-iraq-attacks-2024.png?w=300)

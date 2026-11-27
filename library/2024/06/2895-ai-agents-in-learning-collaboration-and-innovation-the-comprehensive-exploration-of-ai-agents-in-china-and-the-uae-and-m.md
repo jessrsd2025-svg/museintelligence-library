@@ -4,7 +4,7 @@ date: 2024-06-28T11:17:45
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/28/ai-agents-in-learning-collaboration-and-innovation-the-comprehensive-exploration-of-ai-agents-in-china-and-the-uae-and-microsoft-partnership-in-its-development-and-applications/"
 source_id: SRC-WP-2895
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/28/ai-agents-in-learning-collaboration-and-innovation-the-comprehensive-exploration-of-ai-agents-in-china-and-the-uae-and-microsoft-partnership-in-its-development-and-applications/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-34.png?w=920)

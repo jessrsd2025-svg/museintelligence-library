@@ -4,7 +4,7 @@ date: 2024-04-30T13:24:38
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/30/exploring-the-interplay-of-intelligence-integration-non-state-entities-in-geopolitics-and-partnerships-for-national-security/"
 source_id: SRC-WP-2062
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/30/exploring-the-interplay-of-intelligence-integration-non-state-entities-in-geopolitics-and-partnerships-for-national-security/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Strategic Competition and Threats**: **Ail Haynes, Director of National Intelligence**

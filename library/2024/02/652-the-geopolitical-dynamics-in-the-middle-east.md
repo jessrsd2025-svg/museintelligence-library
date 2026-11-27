@@ -4,7 +4,7 @@ date: 2024-02-13T15:01:32
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/13/the-geopolitical-dynamics-in-the-middle-east/"
 source_id: SRC-WP-652
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/13/the-geopolitical-dynamics-in-the-middle-east/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 similariteis-between-the-gulf-of-tonkin-part-2Download

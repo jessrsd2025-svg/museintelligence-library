@@ -4,7 +4,7 @@ date: 2024-11-14T14:38:21
 url: "https://jessrsdincyahoocom.wordpress.com/2024/11/14/unmanned_news_pdf-the-georgetown-security-studies-review-national-security-autonomous-decision-making-systems/"
 source_id: SRC-WP-4942
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/11/14/unmanned_news_pdf-the-georgetown-security-studies-review-national-security-autonomous-decision-making-systems/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/11/image-6.png?w=858)

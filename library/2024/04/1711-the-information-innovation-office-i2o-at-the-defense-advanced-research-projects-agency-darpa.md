@@ -4,7 +4,7 @@ date: 2024-04-01T13:49:28
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/01/the-information-innovation-office-i2o-at-the-defense-advanced-research-projects-agency-darpa/"
 source_id: SRC-WP-1711
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/01/the-information-innovation-office-i2o-at-the-defense-advanced-research-projects-agency-darpa/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/04/image.png?w=621)

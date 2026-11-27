@@ -4,7 +4,7 @@ date: 2024-09-15T12:35:12
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/15/how-preference-signals-will-impact-ai-bias/"
 source_id: SRC-WP-3484
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/15/how-preference-signals-will-impact-ai-bias/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Creative Commons discusses the concept of preference signals pdf (1)Download

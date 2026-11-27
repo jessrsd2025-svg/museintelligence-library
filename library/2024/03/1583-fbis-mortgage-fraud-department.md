@@ -4,7 +4,7 @@ date: 2024-03-16T13:14:21
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/16/fbis-mortgage-fraud-department/"
 source_id: SRC-WP-1583
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/16/fbis-mortgage-fraud-department/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Privacy Impact Assessment Mortgage Fraud Database

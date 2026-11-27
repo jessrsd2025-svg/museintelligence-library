@@ -4,7 +4,7 @@ date: 2024-02-06T19:31:02
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/unmanned-news-pulse-of-agenda/"
 source_id: SRC-WP-307
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/unmanned-news-pulse-of-agenda/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/iraq-mobilization-forces-3.jpg?w=720)

@@ -4,7 +4,7 @@ date: 2024-06-06T14:21:10
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/06/the-historical-context-of-cofa-the-bipartisan-indo-pacific-task-force-a-strategic-pivot-for-u-s-policy-in-the-pacific/"
 source_id: SRC-WP-2638
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/06/the-historical-context-of-cofa-the-bipartisan-indo-pacific-task-force-a-strategic-pivot-for-u-s-policy-in-the-pacific/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-15.png?w=800)

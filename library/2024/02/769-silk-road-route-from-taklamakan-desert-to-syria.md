@@ -4,7 +4,7 @@ date: 2024-02-16T12:44:17
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/16/silk-road-route-from-taklamakan-desert-to-syria/"
 source_id: SRC-WP-769
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/16/silk-road-route-from-taklamakan-desert-to-syria/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - The Silk Road’s origins trace back to ancient times. Even before the formal establishment of the Silk Road, the **Royal Road** existed. This road connected **Susa (in present-day Iran)** to **Sardis (near the Mediterranean Sea in modern Turkey)** during the **Achaemenid Empire**—approximately **300 years before the Silk Road**.

@@ -4,7 +4,7 @@ date: 2024-01-14T16:50:40
 url: "https://jessrsdincyahoocom.wordpress.com/2024/01/14/geopolitical-and-regional-factors-influencing-the-houthi-takeover-the-houthi-takeover-in-yemen-also-known-as-the-september-21-revolution-or-the-2014-15-coup-detat-was/"
 source_id: SRC-WP-35
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/14/geopolitical-and-regional-factors-influencing-the-houthi-takeover-the-houthi-takeover-in-yemen-also-known-as-the-september-21-revolution-or-the-2014-15-coup-detat-was/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The Houthi takeover was influenced by geopolitical and regional factors, including the lifting of fuel subsidies, which gave the Houthi movement the populist issue they needed to enter Sana’a and seize power. [They capitalized on palpable frustration among diverse segments of the population and fears of an al-Islah dominated government](https://en.wikipedia.org/wiki/Houthi_takeover_in_Yemen). [The impact of the Houthi takeover on Yemeni society has been significant, with minorities and women enduring double torment due to persecution by the Houthis, an armed Shi’ite movement that controls most of Yemen](https://www.algemeiner.com/2021/09/27/un-conference-highlights-houthi-persecution-of-minority-populations-in-yemen/)[8](https://www.algemeiner.com/2021/09/27/un-conference-highlights-houthi-persecution-of-minority-populations-in-yemen/). [The aftermath of the takeover has produced a new set of domestic and regional obstacles that leave little room for optimism](https://en.wikipedia.org/wiki/Houthi_takeover_in_Yemen)

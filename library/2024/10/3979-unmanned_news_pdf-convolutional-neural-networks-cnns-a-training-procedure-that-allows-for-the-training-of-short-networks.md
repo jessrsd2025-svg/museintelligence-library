@@ -4,7 +4,7 @@ date: 2024-10-03T12:20:38
 url: "https://jessrsdincyahoocom.wordpress.com/2024/10/03/unmanned_news_pdf-convolutional-neural-networks-cnns-a-training-procedure-that-allows-for-the-training-of-short-networks-while-using-deep-networks/"
 source_id: SRC-WP-3979
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/10/03/unmanned_news_pdf-convolutional-neural-networks-cnns-a-training-procedure-that-allows-for-the-training-of-short-networks-while-using-deep-networks/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/10/image-2.png?w=631)

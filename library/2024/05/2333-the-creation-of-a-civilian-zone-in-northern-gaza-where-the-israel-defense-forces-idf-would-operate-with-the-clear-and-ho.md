@@ -4,7 +4,7 @@ date: 2024-05-18T13:16:04
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/18/the-creation-of-a-civilian-zone-in-northern-gaza-where-the-israel-defense-forces-idf-would-operate-with-the-clear-and-hold-strategy-providing-humanitarian-assistance-and-rebuilding-efforts/"
 source_id: SRC-WP-2333
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/18/the-creation-of-a-civilian-zone-in-northern-gaza-where-the-israel-defense-forces-idf-would-operate-with-the-clear-and-hold-strategy-providing-humanitarian-assistance-and-rebuilding-efforts/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 geopolitics-complexities-of-the-israel-gaza-conflict-2Download

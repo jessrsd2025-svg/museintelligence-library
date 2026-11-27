@@ -4,7 +4,7 @@ date: 2024-03-16T13:45:26
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/16/understanding-the-basics-of-a-suspicious-activity-report-sar-privacy-impact-assessment-mortgage-fraud-database-suspicious/"
 source_id: SRC-WP-1592
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/16/understanding-the-basics-of-a-suspicious-activity-report-sar-privacy-impact-assessment-mortgage-fraud-database-suspicious/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/03/image-32.png?w=844)

@@ -4,7 +4,7 @@ date: 2024-02-20T14:23:16
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/20/defense-strategy-planning-stimson-center-defense-policy-us-forces-forward-posture-research/"
 source_id: SRC-WP-1016
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/20/defense-strategy-planning-stimson-center-defense-policy-us-forces-forward-posture-research/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Threats to Global Trade and Economy

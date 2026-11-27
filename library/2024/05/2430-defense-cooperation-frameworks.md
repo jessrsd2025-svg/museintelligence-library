@@ -4,7 +4,7 @@ date: 2024-05-27T13:57:30
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/27/defense-cooperation-frameworks/"
 source_id: SRC-WP-2430
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/27/defense-cooperation-frameworks/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **NDUS-X Project (U.S.-India)**:

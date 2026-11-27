@@ -4,7 +4,7 @@ date: 2024-05-14T14:31:43
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/14/the-uss-helmand-province-lha-10-the-newest-america-class-amphibious-assault-ship/"
 source_id: SRC-WP-2258
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/14/the-uss-helmand-province-lha-10-the-newest-america-class-amphibious-assault-ship/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Tactical Combat Casualty Care: How Combat Drives Medical Advancements**

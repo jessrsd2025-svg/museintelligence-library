@@ -4,7 +4,7 @@ date: 2024-02-06T18:10:48
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/qaanis-appointment-by-irans-supreme-leader-ayatollah-ali-khamenei-2/"
 source_id: SRC-WP-280
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/qaanis-appointment-by-irans-supreme-leader-ayatollah-ali-khamenei-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/d8add8b3db8cd986_d8b3d984d8a7d985db8c2-1.jpg?w=345)

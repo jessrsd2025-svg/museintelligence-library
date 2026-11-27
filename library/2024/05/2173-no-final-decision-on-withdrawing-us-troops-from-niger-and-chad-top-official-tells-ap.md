@@ -4,7 +4,7 @@ date: 2024-05-07T13:37:26
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/07/no-final-decision-on-withdrawing-us-troops-from-niger-and-chad-top-official-tells-ap/"
 source_id: SRC-WP-2173
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/07/no-final-decision-on-withdrawing-us-troops-from-niger-and-chad-top-official-tells-ap/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/05/image-11.png?w=937)

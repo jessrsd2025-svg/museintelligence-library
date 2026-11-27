@@ -4,7 +4,7 @@ date: 2024-02-15T16:03:50
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/15/the-impact-of-the-saudi-iranian-rapprochement-on-middle-east-and-conflicts-the-arab-one-road-silk-road/"
 source_id: SRC-WP-728
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/15/the-impact-of-the-saudi-iranian-rapprochement-on-middle-east-and-conflicts-the-arab-one-road-silk-road/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/sil-road.jpeg?w=1024)

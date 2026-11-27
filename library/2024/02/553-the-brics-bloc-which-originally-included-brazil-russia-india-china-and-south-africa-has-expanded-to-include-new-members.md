@@ -4,7 +4,7 @@ date: 2024-02-11T13:21:42
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/11/the-brics-bloc-which-originally-included-brazil-russia-india-china-and-south-africa-has-expanded-to-include-new-members-such-as-iran-and-saudi-arabia/"
 source_id: SRC-WP-553
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/11/the-brics-bloc-which-originally-included-brazil-russia-india-china-and-south-africa-has-expanded-to-include-new-members-such-as-iran-and-saudi-arabia/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/jointheconversation-1.jpeg?w=800)

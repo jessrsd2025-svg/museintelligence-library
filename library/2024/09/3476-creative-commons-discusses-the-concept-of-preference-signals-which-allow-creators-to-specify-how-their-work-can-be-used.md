@@ -4,7 +4,7 @@ date: 2024-09-15T12:18:36
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/15/creative-commons-discusses-the-concept-of-preference-signals-which-allow-creators-to-specify-how-their-work-can-be-used-for-ai-training/"
 source_id: SRC-WP-3476
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/15/creative-commons-discusses-the-concept-of-preference-signals-which-allow-creators-to-specify-how-their-work-can-be-used-for-ai-training/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/09/image-14.png?w=1024)

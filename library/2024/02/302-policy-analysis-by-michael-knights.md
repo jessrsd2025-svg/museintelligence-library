@@ -4,7 +4,7 @@ date: 2024-02-06T19:17:53
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/policy-analysis-by-michael-knights/"
 source_id: SRC-WP-302
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/06/policy-analysis-by-michael-knights/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Feb 3, 2024

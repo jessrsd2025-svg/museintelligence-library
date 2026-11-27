@@ -4,7 +4,7 @@ date: 2024-03-17T13:04:49
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/17/understanding-the-financial-crimes-enforcement-network-fincen-at-the-united-states-department-of-the-treasury/"
 source_id: SRC-WP-1611
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/17/understanding-the-financial-crimes-enforcement-network-fincen-at-the-united-states-department-of-the-treasury/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The Financial Crimes Enforcement Network (FinCEN) is a bureau of the United States Department of the Treasury. [Its primary role is to collect and analyze information about financial transactions in order to combat domestic and international money laundering, terrorist financing, and other financial crimes](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network)[1](https://en.wikipedia.org/wiki/Financial_Crimes_Enforcement_Network). [FinCEN operates both domestically and internationally, working with law enforcement agencies, the regulatory community, and the financial-services community to track suspicious activities and ensure the integrity of the financial system](https://www.investopedia.com/terms/f/fincen.asp)[2](https://www.investopedia.com/terms/f/fincen.asp).

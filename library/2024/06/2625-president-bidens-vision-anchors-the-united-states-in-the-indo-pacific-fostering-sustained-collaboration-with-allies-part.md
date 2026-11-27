@@ -4,7 +4,7 @@ date: 2024-06-03T12:58:09
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/03/president-bidens-vision-anchors-the-united-states-in-the-indo-pacific-fostering-sustained-collaboration-with-allies-partners-and-institutions/"
 source_id: SRC-WP-2625
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/03/president-bidens-vision-anchors-the-united-states-in-the-indo-pacific-fostering-sustained-collaboration-with-allies-partners-and-institutions/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-10.png?w=747)

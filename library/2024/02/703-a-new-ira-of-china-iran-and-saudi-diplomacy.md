@@ -4,7 +4,7 @@ date: 2024-02-14T13:02:20
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/14/a-new-ira-of-china-iran-and-saudi-diplomacy/"
 source_id: SRC-WP-703
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/14/a-new-ira-of-china-iran-and-saudi-diplomacy/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [**COMMENTARY**](https://www.crisisgroup.org/latest-updates/commentary)/ [MIDDLE EAST & NORTH AFRICA](https://www.crisisgroup.org/middle-east-north-africa) 19 APRIL 2023 **20 MINUTES**

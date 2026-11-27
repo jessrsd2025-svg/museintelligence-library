@@ -4,7 +4,7 @@ date: 2024-02-09T13:56:50
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/iran-saudi-arabia-peace-talks-iran-and-saudi-arabia-eased-their-long-running-tensions-after-a-toxic-mediation-by-beijing-in-march-2023/"
 source_id: SRC-WP-380
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/09/iran-saudi-arabia-peace-talks-iran-and-saudi-arabia-eased-their-long-running-tensions-after-a-toxic-mediation-by-beijing-in-march-2023/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/china_iran_diplomacy-1.jpeg?w=1024)

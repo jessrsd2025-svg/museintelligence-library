@@ -4,7 +4,7 @@ date: 2024-01-18T13:09:37
 url: "https://jessrsdincyahoocom.wordpress.com/2024/01/18/uss-abraham-lincoln-cvn-72-uss-kearsarge-arabian-sea-lhd-3/"
 source_id: SRC-WP-83
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/18/uss-abraham-lincoln-cvn-72-uss-kearsarge-arabian-sea-lhd-3/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/01/abecsg-ksgarg.jpeg?w=1024)

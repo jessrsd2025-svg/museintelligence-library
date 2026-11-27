@@ -4,7 +4,7 @@ date: 2024-04-05T14:54:09
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/05/ai-in-cjadc2-enhancing-decision-making/"
 source_id: SRC-WP-1756
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/05/ai-in-cjadc2-enhancing-decision-making/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - **What is JADC2?**

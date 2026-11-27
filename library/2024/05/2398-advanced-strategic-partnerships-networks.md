@@ -4,7 +4,7 @@ date: 2024-05-25T14:19:47
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/25/advanced-strategic-partnerships-networks/"
 source_id: SRC-WP-2398
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/25/advanced-strategic-partnerships-networks/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **GCMC Strategic Concept Booklet** – From the George C. Marshall European Center for Security Studies:

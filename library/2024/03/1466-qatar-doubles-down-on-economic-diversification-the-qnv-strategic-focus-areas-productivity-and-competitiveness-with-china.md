@@ -4,7 +4,7 @@ date: 2024-03-11T12:38:12
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/11/qatar-doubles-down-on-economic-diversification-the-qnv-strategic-focus-areas-productivity-and-competitiveness-with-china-in-africa-and-middle-east-lead-by-private-sector-led-growth/"
 source_id: SRC-WP-1466
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/11/qatar-doubles-down-on-economic-diversification-the-qnv-strategic-focus-areas-productivity-and-competitiveness-with-china-in-africa-and-middle-east-lead-by-private-sector-led-growth/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > Qatar’s influence from the Persian Gulf to the Red Sea extends through its diplomatic efforts and economic investments.

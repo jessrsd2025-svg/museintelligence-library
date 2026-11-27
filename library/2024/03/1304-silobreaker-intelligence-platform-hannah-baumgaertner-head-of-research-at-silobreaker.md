@@ -4,7 +4,7 @@ date: 2024-03-04T12:57:18
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/04/silobreaker-intelligence-platform-hannah-baumgaertner-head-of-research-at-silobreaker/"
 source_id: SRC-WP-1304
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/04/silobreaker-intelligence-platform-hannah-baumgaertner-head-of-research-at-silobreaker/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The Silobreaker Intelligence Platform is a comprehensive Software as a Service (SaaS) solution that aids organizations in making faster, intelligence-led decisions by providing insights into cyber threats, physical, and geopolitical risks. It offers a one-console view that integrates data collection, analysis, and reporting to deliver actionable intelligence.

@@ -4,7 +4,7 @@ date: 2024-06-10T13:36:54
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/10/the-capabilities-and-future-needs-of-the-u-s-naval-forces-are-pivotable-to-the-marine-corps-amphibious-operations/"
 source_id: SRC-WP-2717
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/10/the-capabilities-and-future-needs-of-the-u-s-naval-forces-are-pivotable-to-the-marine-corps-amphibious-operations/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-20.png?w=750)

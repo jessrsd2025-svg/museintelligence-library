@@ -4,7 +4,7 @@ date: 2024-07-15T13:44:13
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/15/turkiyes-unity-and-resilience/"
 source_id: SRC-WP-3121
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/15/turkiyes-unity-and-resilience/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Türkiye’s unity and resilience have indeed been triumphant throughout the centuries. From the establishment of the Republic in 1923 under Mustafa Kemal Atatürk’s visionary leadership to the recent recovery efforts following the devastating earthquakes in 2023, Türkiye has consistently demonstrated its strength and determination.

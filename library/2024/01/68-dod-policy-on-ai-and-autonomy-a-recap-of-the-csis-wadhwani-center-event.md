@@ -4,7 +4,7 @@ date: 2024-01-16T13:35:39
 url: "https://jessrsdincyahoocom.wordpress.com/2024/01/16/dod-policy-on-ai-and-autonomy-a-recap-of-the-csis-wadhwani-center-event/"
 source_id: SRC-WP-68
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/16/dod-policy-on-ai-and-autonomy-a-recap-of-the-csis-wadhwani-center-event/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 On January 9, 2024, the CSIS Wadhwani Center for AI and Advanced Technologies hosted a live-streamed event featuring Dr. Michael C. Horowitz, Professor of Political Science and the Associate Director of Perry World House at the University of Pennsylvania, and Gregory C. Allen, Adjunct Senior Fellow at the Center for a New American Security (CNAS). The event focused on the state of the DOD policy towards AI and autonomy, and how it affects the future of defense planning and international cooperation.

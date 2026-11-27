@@ -4,7 +4,7 @@ date: 2024-05-29T11:45:12
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/29/kenyas-involvement-in-haiti-can-haitis-u-n-security-mission-destroy-the-gangs/"
 source_id: SRC-WP-2473
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/29/kenyas-involvement-in-haiti-can-haitis-u-n-security-mission-destroy-the-gangs/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 The situation in Haiti has been a growing concern for the international community, with gang violence reaching alarming levels and the state’s ability to maintain order severely compromised. In a significant move, Kenya has stepped forward to lead a United Nations Security Mission, aiming to assist Haitian police in securing key infrastructure and combating the criminal groups that have taken control of much of the country’s capital.

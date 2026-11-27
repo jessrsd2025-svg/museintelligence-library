@@ -4,7 +4,7 @@ date: 2024-02-10T14:06:42
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/10/what-is-competitive-intelligence/"
 source_id: SRC-WP-426
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/10/what-is-competitive-intelligence/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 March 30, 2023

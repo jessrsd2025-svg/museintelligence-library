@@ -4,7 +4,7 @@ date: 2024-05-28T13:04:34
 url: "https://jessrsdincyahoocom.wordpress.com/2024/05/28/google-boosts-kenyas-digital-connectivity-with-major-investments/"
 source_id: SRC-WP-2455
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/05/28/google-boosts-kenyas-digital-connectivity-with-major-investments/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Google’s Strategic Investments Propel Kenya’s Digital Future**

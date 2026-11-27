@@ -4,7 +4,7 @@ date: 2024-04-25T13:15:21
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/25/gina-raimondo-steering-commerce-and-security-in-the-tech-era/"
 source_id: SRC-WP-1982
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/25/gina-raimondo-steering-commerce-and-security-in-the-tech-era/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Embedded media](https://www.youtube.com/embed/bmS2_fv9DDM?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en&autohide=2&wmode=transparent)

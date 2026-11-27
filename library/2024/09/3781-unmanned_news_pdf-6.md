@@ -4,7 +4,7 @@ date: 2024-09-28T12:12:42
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/28/unmanned_news_pdf-6/"
 source_id: SRC-WP-3781
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/28/unmanned_news_pdf-6/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **AI Legislation: The legal doctrine that will be key to preventing AI discrimination**

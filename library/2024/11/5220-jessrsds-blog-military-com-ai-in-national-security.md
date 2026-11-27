@@ -4,7 +4,7 @@ date: 2024-11-24T12:58:17
 url: "https://jessrsdincyahoocom.wordpress.com/2024/11/24/jessrsds-blog-military-com-ai-in-national-security/"
 source_id: SRC-WP-5220
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/11/24/jessrsds-blog-military-com-ai-in-national-security/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **WASHINGTON — [New rules](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/24/fact-sheet-biden-harris-administration-outlines-coordinated-approach-to-harness-power-of-ai-for-u-s-national-security/) from [the White House](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/) on the use of [artificial intelligence](https://apnews.com/hub/artificial-intelligence) by U.S. national security and spy agencies aim to balance the technology’s immense promise with the need to [protect against its risks](https://apnews.com/article/artificial-intelligence-risks-uk-summit-regulation-ce89e842a176e55e46b6cc493cd515a5).**

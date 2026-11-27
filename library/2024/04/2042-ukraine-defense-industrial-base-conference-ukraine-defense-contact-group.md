@@ -4,7 +4,7 @@ date: 2024-04-28T12:16:38
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/28/ukraine-defense-industrial-base-conference-ukraine-defense-contact-group/"
 source_id: SRC-WP-2042
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/28/ukraine-defense-industrial-base-conference-ukraine-defense-contact-group/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/04/image-40.png?w=674)

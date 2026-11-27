@@ -4,7 +4,7 @@ date: 2024-02-03T13:07:51
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/03/us-strikes-iranian-militants-in-iraq-and-syria/"
 source_id: SRC-WP-167
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/03/us-strikes-iranian-militants-in-iraq-and-syria/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 A Policy Paper by John Smith

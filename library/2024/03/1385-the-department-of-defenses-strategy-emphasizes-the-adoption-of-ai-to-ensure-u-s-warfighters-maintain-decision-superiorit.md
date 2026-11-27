@@ -4,7 +4,7 @@ date: 2024-03-07T12:19:42
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-department-of-defenses-strategy-emphasizes-the-adoption-of-ai-to-ensure-u-s-warfighters-maintain-decision-superiority-on-the-battlefield/"
 source_id: SRC-WP-1385
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-department-of-defenses-strategy-emphasizes-the-adoption-of-ai-to-ensure-u-s-warfighters-maintain-decision-superiority-on-the-battlefield/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > The U.S. government’s efforts to integrate technologies into national defense and intelligence operations. Joint Artificial Intelligence Center (JAIC) Office of the Director of National Intelligence

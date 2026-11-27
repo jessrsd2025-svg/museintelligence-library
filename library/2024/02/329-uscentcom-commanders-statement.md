@@ -4,7 +4,7 @@ date: 2024-02-08T12:56:49
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/08/uscentcom-commanders-statement/"
 source_id: SRC-WP-329
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/08/uscentcom-commanders-statement/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 - **USCENTCOM Commander’s Statement**: Gen. Michael Erik Kurilla, US CENTCOM Commander, made a statement regarding U.S. strikes in Iraq and Syria.

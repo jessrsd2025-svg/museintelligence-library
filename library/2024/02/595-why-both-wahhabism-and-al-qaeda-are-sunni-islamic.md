@@ -4,7 +4,7 @@ date: 2024-02-12T15:08:52
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/12/why-both-wahhabism-and-al-qaeda-are-sunni-islamic/"
 source_id: SRC-WP-595
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/12/why-both-wahhabism-and-al-qaeda-are-sunni-islamic/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 > The BRICS bloc, which originally included Brazil, Russia, India, China, and South Africa, has expanded to include new members such as Iran and Saudi Arabia

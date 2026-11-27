@@ -4,7 +4,7 @@ date: 2024-04-26T13:09:37
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/26/the-csis-international-security-program-for-the-2024-global-security-forum-the-evolution-of-military-strategy-adapting-to-modern-challenges/"
 source_id: SRC-WP-1993
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/26/the-csis-international-security-program-for-the-2024-global-security-forum-the-evolution-of-military-strategy-adapting-to-modern-challenges/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/04/image-31.png?w=975)

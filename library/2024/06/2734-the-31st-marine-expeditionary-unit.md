@@ -4,7 +4,7 @@ date: 2024-06-16T12:05:49
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/16/the-31st-marine-expeditionary-unit/"
 source_id: SRC-WP-2734
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/16/the-31st-marine-expeditionary-unit/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 A **Marine expeditionary force** (**MEF**), formerly known as a **Marine amphibious force**, is the largest type of a [Marine air-ground task force](https://en.wikipedia.org/wiki/Marine_air-ground_task_force). A MEF is the largest building block of [United States Marine Corps](https://en.wikipedia.org/wiki/United_States_Marine_Corps) combat power.

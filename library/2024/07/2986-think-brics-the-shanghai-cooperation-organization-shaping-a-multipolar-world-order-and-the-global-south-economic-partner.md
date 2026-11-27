@@ -4,7 +4,7 @@ date: 2024-07-07T15:01:16
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/07/think-brics-the-shanghai-cooperation-organization-shaping-a-multipolar-world-order-and-the-global-south-economic-partnerships/"
 source_id: SRC-WP-2986
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/07/think-brics-the-shanghai-cooperation-organization-shaping-a-multipolar-world-order-and-the-global-south-economic-partnerships/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/07/image-4.png?w=674)

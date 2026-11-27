@@ -4,7 +4,7 @@ date: 2024-02-19T12:02:52
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/what-is-the-difference-between-deterrence-and-compellencehow-does-defense-strategy-affect-military-spending/"
 source_id: SRC-WP-927
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/what-is-the-difference-between-deterrence-and-compellencehow-does-defense-strategy-affect-military-spending/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Defense Strategy & Planning](https://www.stimson.org/project/defense-strategy-planning/)

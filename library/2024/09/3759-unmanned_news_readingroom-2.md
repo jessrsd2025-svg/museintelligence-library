@@ -4,7 +4,7 @@ date: 2024-09-27T13:18:23
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/27/unmanned_news_readingroom-2/"
 source_id: SRC-WP-3759
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/27/unmanned_news_readingroom-2/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [The Navy’s Humanitarian Mission](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/humanitarian-mission.html)[https://www.history.navy.mil/](https://www.history.navy.mil/)

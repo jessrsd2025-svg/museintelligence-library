@@ -4,7 +4,7 @@ date: 2024-12-02T12:53:40
 url: "https://jessrsdincyahoocom.wordpress.com/2024/12/02/where-is-xai-in-the-ai-startup-race/"
 source_id: SRC-WP-5243
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/12/02/where-is-xai-in-the-ai-startup-race/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 XAI was founded in March 2023 and attracted a lot of attention as Musk’s direct entrance into the AI race after his business relationship with OpenAI soured.

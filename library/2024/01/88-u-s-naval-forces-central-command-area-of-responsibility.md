@@ -4,7 +4,7 @@ date: 2024-01-19T14:45:10
 url: "https://jessrsdincyahoocom.wordpress.com/2024/01/19/u-s-naval-forces-central-command-area-of-responsibility/"
 source_id: SRC-WP-88
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/01/19/u-s-naval-forces-central-command-area-of-responsibility/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/01/fleet-5.gif?w=155)

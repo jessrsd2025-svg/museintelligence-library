@@ -4,7 +4,7 @@ date: 2024-02-19T14:26:47
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/india-middle-east-europe-economic-corridor-imec/"
 source_id: SRC-WP-978
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/india-middle-east-europe-economic-corridor-imec/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/pinterset-images-1.jpg?w=564)

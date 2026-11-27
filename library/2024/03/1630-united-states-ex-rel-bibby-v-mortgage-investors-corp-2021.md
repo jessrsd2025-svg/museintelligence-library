@@ -4,7 +4,7 @@ date: 2024-03-18T13:15:10
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/18/united-states-ex-rel-bibby-v-mortgage-investors-corp-2021/"
 source_id: SRC-WP-1630
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/18/united-states-ex-rel-bibby-v-mortgage-investors-corp-2021/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 An Eleventh Circuit panel revived a False Claims Act (FCA) mortgage fraud case, reversing a district court’s summary judgment dismissal based on materiality. The case involved allegations of finance companies misleading the U.S. [Department of Veterans Affairs into issuing guaranties on refinance loans to veterans](https://www.dinsmore.com/publications/eleventh-circuit-panel-revives-fca-mortgage-fraud-case-reversing-materiality-based-summary-judgment-dismissal/)

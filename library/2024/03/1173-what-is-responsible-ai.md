@@ -4,7 +4,7 @@ date: 2024-03-01T13:26:55
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/01/what-is-responsible-ai/"
 source_id: SRC-WP-1173
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/01/what-is-responsible-ai/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Endsley’s Cognitive Model of Situation Awareness (SA) is a framework that describes the process of achieving and maintaining situation awareness in dynamic environments. It outlines three levels of SA:

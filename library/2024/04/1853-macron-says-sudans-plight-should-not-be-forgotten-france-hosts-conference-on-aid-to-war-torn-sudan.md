@@ -4,7 +4,7 @@ date: 2024-04-16T15:30:57
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/16/macron-says-sudans-plight-should-not-be-forgotten-france-hosts-conference-on-aid-to-war-torn-sudan/"
 source_id: SRC-WP-1853
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/16/macron-says-sudans-plight-should-not-be-forgotten-france-hosts-conference-on-aid-to-war-torn-sudan/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [Sudan War Monitor](https://sudanwarmonitor.com/)

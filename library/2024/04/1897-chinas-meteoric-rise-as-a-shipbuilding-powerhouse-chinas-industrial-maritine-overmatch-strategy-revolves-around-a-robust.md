@@ -4,7 +4,7 @@ date: 2024-04-19T16:19:47
 url: "https://jessrsdincyahoocom.wordpress.com/2024/04/19/chinas-meteoric-rise-as-a-shipbuilding-powerhouse-chinas-industrial-maritine-overmatch-strategy-revolves-around-a-robust-commercial-shipbuilding-sector/"
 source_id: SRC-WP-1897
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/04/19/chinas-meteoric-rise-as-a-shipbuilding-powerhouse-chinas-industrial-maritine-overmatch-strategy-revolves-around-a-robust-commercial-shipbuilding-sector/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 By establishing a strong infrastructure and supply chain for commercial ships, China has laid the groundwork for military shipbuilding as well.

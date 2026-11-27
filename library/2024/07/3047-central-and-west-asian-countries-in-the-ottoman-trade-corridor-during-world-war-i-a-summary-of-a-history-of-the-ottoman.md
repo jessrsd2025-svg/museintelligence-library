@@ -4,7 +4,7 @@ date: 2024-07-10T14:20:47
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/10/central-and-west-asian-countries-in-the-ottoman-trade-corridor-during-world-war-i-a-summary-of-a-history-of-the-ottoman-empire-by-douglas-a-howard/"
 source_id: SRC-WP-3047
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/10/central-and-west-asian-countries-in-the-ottoman-trade-corridor-during-world-war-i-a-summary-of-a-history-of-the-ottoman-empire-by-douglas-a-howard/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/07/image-8.png?w=923)

@@ -4,7 +4,7 @@ date: 2024-02-16T13:14:17
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/16/double-dragons-qing-dynasty/"
 source_id: SRC-WP-785
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/16/double-dragons-qing-dynasty/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Xinjiang Uyghur Autonomous Region of China – The Silk Road and the Iranian Political Economy in Late Antiquity

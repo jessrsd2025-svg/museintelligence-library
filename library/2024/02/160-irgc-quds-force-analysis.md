@@ -4,7 +4,7 @@ date: 2024-02-02T14:28:54
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/02/irgc-quds-force-analysis/"
 source_id: SRC-WP-160
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/02/irgc-quds-force-analysis/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Center for Strategic & International Studies – Iran Special Operations, Quds Force

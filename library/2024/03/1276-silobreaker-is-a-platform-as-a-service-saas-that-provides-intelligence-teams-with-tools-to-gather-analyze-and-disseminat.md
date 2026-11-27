@@ -4,7 +4,7 @@ date: 2024-03-03T13:22:22
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/03/silobreaker-is-a-platform-as-a-service-saas-that-provides-intelligence-teams-with-tools-to-gather-analyze-and-disseminate-data-across-physical-cyber-and-geopolitical-elements/"
 source_id: SRC-WP-1276
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/03/silobreaker-is-a-platform-as-a-service-saas-that-provides-intelligence-teams-with-tools-to-gather-analyze-and-disseminate-data-across-physical-cyber-and-geopolitical-elements/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 In the field of intelligence analysis, several models and techniques are employed to enhance the analytical process. Here are a few:[**Structured Analytic Techniques**: These are methods designed to improve intelligence analysis and include techniques like Key Assumptions Check, Analysis of Competing Hypotheses, and Red Team Analysis1](https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-apr09.pdf).[**Principles of Intelligence Analysis**: These principles focus on ensuring insights are accurate, relevant, timely, and persuasive2](https://www.cia.gov/static/7514ffff9baca6c514433ee0f55629db/Article-Principles-of-Intelligence-Analysis-Studies65-4-Dec2021.pdf).

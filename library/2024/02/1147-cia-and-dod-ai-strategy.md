@@ -4,7 +4,7 @@ date: 2024-02-27T18:50:48
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/27/cia-and-dod-ai-strategy/"
 source_id: SRC-WP-1147
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/27/cia-and-dod-ai-strategy/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [The guide on CIA and DOD AI strategy from The Cipher Brief addresses the challenges and opportunities presented by AI and ML in national security and defense, advocating for a strategic shift towards more agile, software-centric capabilities](https://www.thecipherbrief.com/column_article/how-ai-and-ml-are-impacting-dod-and-cias-future)

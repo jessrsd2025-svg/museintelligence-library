@@ -4,7 +4,7 @@ date: 2024-07-12T13:25:42
 url: "https://jessrsdincyahoocom.wordpress.com/2024/07/12/milestones-in-the-history-of-u-s-foreign-relations-office-of-the-historian/"
 source_id: SRC-WP-3073
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/07/12/milestones-in-the-history-of-u-s-foreign-relations-office-of-the-historian/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 From the mid-1500s to the mid-1800s, the North African countries of **Morocco, Algiers (present-day Algeria), Tunis (now Tunisia), and Tripoli (in northwestern Libya)** were collectively known as the **Barbary States**.

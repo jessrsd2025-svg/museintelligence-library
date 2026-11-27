@@ -4,7 +4,7 @@ date: 2024-12-24T14:29:59
 url: "https://jessrsdincyahoocom.wordpress.com/2024/12/24/unmanned_news_pdf-congressional-news-president-elect-trump-and-a-new-majority-congress-cossa-2025-policy-outlook/"
 source_id: SRC-WP-5453
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/12/24/unmanned_news_pdf-congressional-news-president-elect-trump-and-a-new-majority-congress-cossa-2025-policy-outlook/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/12/image-11.png?w=479)

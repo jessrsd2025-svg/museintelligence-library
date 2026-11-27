@@ -4,7 +4,7 @@ date: 2024-09-24T12:10:27
 url: "https://jessrsdincyahoocom.wordpress.com/2024/09/24/department-of-defense-articial-intelligence-innovation-network-unmanned_news/"
 source_id: SRC-WP-3639
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/09/24/department-of-defense-articial-intelligence-innovation-network-unmanned_news/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [DoD Chief Digital and Artificial Intelligence Office](https://www.linkedin.com/company/dod-chief-digital-and-artificial-intelligence-office/posts)

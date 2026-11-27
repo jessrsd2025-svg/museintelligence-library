@@ -4,7 +4,7 @@ date: 2024-02-19T12:14:22
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/threats-to-global-trade-and-economy/"
 source_id: SRC-WP-933
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/19/threats-to-global-trade-and-economy/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/02/us-iran-1.jpg?w=1024)

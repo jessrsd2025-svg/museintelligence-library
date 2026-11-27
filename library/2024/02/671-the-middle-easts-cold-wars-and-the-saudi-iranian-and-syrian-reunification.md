@@ -4,7 +4,7 @@ date: 2024-02-14T12:20:12
 url: "https://jessrsdincyahoocom.wordpress.com/2024/02/14/the-middle-easts-cold-wars-and-the-saudi-iranian-and-syrian-reunification/"
 source_id: SRC-WP-671
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/02/14/the-middle-easts-cold-wars-and-the-saudi-iranian-and-syrian-reunification/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 a-new-era-of-diplomacy-in-the-middle-east-edit2Download

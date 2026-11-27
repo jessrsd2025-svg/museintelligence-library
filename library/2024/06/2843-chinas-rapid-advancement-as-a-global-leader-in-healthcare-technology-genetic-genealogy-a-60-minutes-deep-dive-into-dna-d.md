@@ -4,7 +4,7 @@ date: 2024-06-24T14:38:49
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/24/chinas-rapid-advancement-as-a-global-leader-in-healthcare-technology-genetic-genealogy-a-60-minutes-deep-dive-into-dna-data-collection-and-privacy-concerns/"
 source_id: SRC-WP-2843
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/24/chinas-rapid-advancement-as-a-global-leader-in-healthcare-technology-genetic-genealogy-a-60-minutes-deep-dive-into-dna-data-collection-and-privacy-concerns/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/06/image-30.png?w=453)

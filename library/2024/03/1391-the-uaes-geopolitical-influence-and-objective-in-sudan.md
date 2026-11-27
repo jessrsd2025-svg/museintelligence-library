@@ -4,7 +4,7 @@ date: 2024-03-07T12:40:26
 url: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-uaes-geopolitical-influence-and-objective-in-sudan/"
 source_id: SRC-WP-1391
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/03/07/the-uaes-geopolitical-influence-and-objective-in-sudan/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![](https://jessrsdincyahoocom.wordpress.com/wp-content/uploads/2024/03/uae-area-of-responsibility.jpeg?w=474)

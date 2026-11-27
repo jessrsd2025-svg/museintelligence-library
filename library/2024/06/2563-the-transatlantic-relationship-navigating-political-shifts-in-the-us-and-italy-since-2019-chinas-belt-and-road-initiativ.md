@@ -4,7 +4,7 @@ date: 2024-06-01T14:21:22
 url: "https://jessrsdincyahoocom.wordpress.com/2024/06/01/the-transatlantic-relationship-navigating-political-shifts-in-the-us-and-italy-since-2019-chinas-belt-and-road-initiative-bri/"
 source_id: SRC-WP-2563
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2024/06/01/the-transatlantic-relationship-navigating-political-shifts-in-the-us-and-italy-since-2019-chinas-belt-and-road-initiative-bri/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 **Since 2019, significant political shifts have occurred in both the United States and Italy.**
