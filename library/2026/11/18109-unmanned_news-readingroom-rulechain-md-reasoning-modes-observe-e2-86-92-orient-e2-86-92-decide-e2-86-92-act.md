@@ -4,7 +4,7 @@ date: 2026-11-13T14:38:32
 url: "https://jessrsdincyahoocom.wordpress.com/2026/11/13/unmanned_news-readingroom-rulechain-md-reasoning-modes-observe-%e2%86%92-orient-%e2%86%92-decide-%e2%86%92-act/"
 source_id: SRC-WP-18109
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/11/13/unmanned_news-readingroom-rulechain-md-reasoning-modes-observe-%e2%86%92-orient-%e2%86%92-decide-%e2%86%92-act/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 [https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)[https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)[https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)[**AGENTS.md**](https://www.linkedin.com/safety/go/?url=http%3A%2F%2FAGENTS%2Emd&urlhash=jh-H&mt=9xMg_PueAGI_ulIi3ks7pSyepo0fX4GoTvtYzLZBX-EyrmHZGef6HNlAt7_QBi7T5VsbMoC0VM7KEM_rVK4NDqxo98RSPucIj3wv_ehKdL5cMGRbkH6CwrvnAWUrwnI1xFIrxhMWJv-gD4nUrl2dXXuBciBh4t2x_Lg0U0eJhCxNDuXUmX28GBOC37OZocmq4Q&isSdui=true) ArXiv-Style Research and Agent Operating Specification

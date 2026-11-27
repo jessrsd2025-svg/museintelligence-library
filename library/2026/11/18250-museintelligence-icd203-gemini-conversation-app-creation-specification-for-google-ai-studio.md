@@ -4,10 +4,13 @@ date: 2026-11-25T15:17:12
 url: "https://jessrsdincyahoocom.wordpress.com/2026/11/25/museintelligence-icd203-gemini-conversation-app-creation-specification-for-google-ai-studio/"
 source_id: SRC-WP-18250
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/11/25/museintelligence-icd203-gemini-conversation-app-creation-specification-for-google-ai-studio/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![View Jesse Marshall’s profile](https://media.licdn.com/dms/image/v2/C5603AQHo2iyQkhbxHQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1661478284260?e=1797465600&v=beta&t=RXjyZxXlgyRKLKBHnZ5rOCB4c-zx4Sz4SNHPjlBgB4A)
+
+
+[GitHub repository: https://github.com/jessrsd2025-svg/museintelligence-app](https://github.com/jessrsd2025-svg/museintelligence-app)
 
 
 Renderings of Strategic Dynamics: MuseIntelligence ICD203 — Gemini Conversation[https://www.linkedin.com/in/jesse-marshall-2613b94b/](https://www.linkedin.com/in/jesse-marshall-2613b94b/)

@@ -4,7 +4,7 @@ date: 2026-10-04T12:27:13
 url: "https://jessrsdincyahoocom.wordpress.com/2026/10/04/unmanned_news-readingroom-post-quantum-renderings-md-manuscript-huggingfacegithub-call-for-tools-gpt-5-6-sol-glm-5-3-flash-gpt-6-luna-gemini-3-8-flash-llama_4_maverick-artifact/"
 source_id: SRC-WP-18085
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/10/04/unmanned_news-readingroom-post-quantum-renderings-md-manuscript-huggingfacegithub-call-for-tools-gpt-5-6-sol-glm-5-3-flash-gpt-6-luna-gemini-3-8-flash-llama_4_maverick-artifact/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 Unmanned_News ReadingRoom Post Quantum [Renderings.md](http://renderings.md/) manuscript — HuggingFaceGithub Call for Tools //GPT 5.6 Sol //GLM 5.3 Flash //GPT-6 Luna //Gemini 3.8 Flash//Llama_4_Maverick artifact FedRAMP/IL5/ATO

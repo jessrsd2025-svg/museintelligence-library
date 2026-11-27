@@ -4,7 +4,7 @@ date: 2026-11-22T13:43:14
 url: "https://jessrsdincyahoocom.wordpress.com/2026/11/22/unmanned_news-readingroom-neo4j-verifiable-tool-invocation-gives-agents-deterministic-feeds-data-streams-proof-of-reserve-and-validated-contract-interaction/"
 source_id: SRC-WP-18222
 source_locator: "https://jessrsdincyahoocom.wordpress.com/2026/11/22/unmanned_news-readingroom-neo4j-verifiable-tool-invocation-gives-agents-deterministic-feeds-data-streams-proof-of-reserve-and-validated-contract-interaction/"
-retrieval_timestamp: 2026-11-25T18:01:10Z
+retrieval_timestamp: 2026-11-27T16:42:05Z
 ---
 
 ![Favicon for nvidia](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://nvidia.com/&size=256)
