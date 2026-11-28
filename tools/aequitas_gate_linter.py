@@ -266,11 +266,42 @@ def gate_a1(root: Path, files: list[Path], json_docs: dict) -> GateResult:
     return result
 
 
+def _check_canonical_doc(result: GateResult, root: Path, path: Path,
+                         text: str, lineno: int | None) -> None:
+    """Check one JSON document string for duplicate keys and canonical
+    serialization stability, recording any failure on ``result``."""
+    try:
+        load_json_strict(text)
+    except _DupKeyError as exc:
+        result.fail(rel(root, path), lineno,
+                    f"duplicate key {exc.key!r} — canonicalization is "
+                    "not deterministic")
+        return
+    except json.JSONDecodeError as exc:
+        result.fail(rel(root, path),
+                    lineno if lineno is not None else exc.lineno,
+                    f"invalid JSON, cannot canonicalize: {exc.msg}")
+        return
+    try:
+        doc = json.loads(text)
+        canonical = json.dumps(doc, sort_keys=True, separators=(",", ":"),
+                               ensure_ascii=False)
+        again = json.dumps(json.loads(canonical), sort_keys=True,
+                           separators=(",", ":"), ensure_ascii=False)
+        if canonical != again:
+            result.fail(rel(root, path), lineno,
+                        "canonical serialization is not stable")
+    except (TypeError, ValueError) as exc:
+        result.fail(rel(root, path), lineno,
+                    f"cannot canonicalize: {exc}")
+
+
 def gate_a2(root: Path, files: list[Path], json_docs: dict) -> GateResult:
     """A2 Deterministic Canonicalization: all JSON envelopes conform to
     RFC 8785 canonical sorting prior to SHA-256 hashing. Checked here as:
     no duplicate keys, and re-serializing with sorted keys / canonical
-    separators is stable. Not a full JCS number-encoding check."""
+    separators is stable. Not a full JCS number-encoding check.
+    JSON Lines (.jsonl) files are checked one document per line."""
     result = GateResult("A2", "Deterministic Canonicalization (RFC 8785)")
     checked = 0
     for path in files:
@@ -280,31 +311,13 @@ def gate_a2(root: Path, files: list[Path], json_docs: dict) -> GateResult:
         if text is None:
             continue
         checked += 1
-        try:
-            load_json_strict(text)
-        except _DupKeyError as exc:
-            result.fail(rel(root, path), None,
-                        f"duplicate key {exc.key!r} — canonicalization is "
-                        "not deterministic")
+        if path.suffix.lower() == ".jsonl":
+            for lineno, line in enumerate(text.splitlines(), start=1):
+                if not line.strip():
+                    continue
+                _check_canonical_doc(result, root, path, line, lineno)
             continue
-        except json.JSONDecodeError as exc:
-            result.fail(rel(root, path), exc.lineno,
-                        f"invalid JSON, cannot canonicalize: {exc.msg}")
-            continue
-        doc = json_docs.get(path)
-        if doc is None:
-            continue
-        try:
-            canonical = json.dumps(doc, sort_keys=True, separators=(",", ":"),
-                                   ensure_ascii=False)
-            again = json.dumps(json.loads(canonical), sort_keys=True,
-                               separators=(",", ":"), ensure_ascii=False)
-            if canonical != again:
-                result.fail(rel(root, path), None,
-                            "canonical serialization is not stable")
-        except (TypeError, ValueError) as exc:
-            result.fail(rel(root, path), None,
-                        f"cannot canonicalize: {exc}")
+        _check_canonical_doc(result, root, path, text, None)
     result.note = f"{checked} JSON file(s) checked for duplicate keys and canonical stability"
     return result
 
@@ -464,6 +477,7 @@ def gate_b2(root: Path, files: list[Path], json_docs: dict,
                             "market signals")
             prob = obj.get("implied_probability_float")
             if prob is not None and not (isinstance(prob, (int, float))
+                                         and not isinstance(prob, bool)
                                          and 0 <= prob <= 1):
                 result.fail(rel(root, path), None,
                             f"{label}: implied_probability_float {prob!r} "
@@ -621,7 +635,8 @@ def gate_c2(root: Path, files: list[Path]) -> GateResult:
 
 def _coord_pairs(node, pairs: list):
     if isinstance(node, list) and len(node) == 2 and all(
-            isinstance(v, (int, float)) for v in node):
+            isinstance(v, (int, float)) and not isinstance(v, bool)
+            for v in node):
         pairs.append(tuple(node))
     elif isinstance(node, list):
         for item in node:
@@ -645,19 +660,34 @@ def gate_c3(root: Path, files: list[Path], json_docs: dict) -> GateResult:
             continue
         geojson_files += 1
         label = rel(root, path)
-        features = doc.get("features", [doc]) if isinstance(doc, dict) else []
-        for feature in features:
-            if not isinstance(feature, dict):
-                continue
-            props = feature.get("properties") or {}
-            if props.get("navigation_suitability") != 0:
-                result.fail(label, None,
-                            "GeoJSON feature missing navigation_suitability: 0")
-            if props.get("live_tracking") is not False:
-                result.fail(label, None,
-                            "GeoJSON feature missing live_tracking: false")
+        # Collect (properties, geometry) pairs to check. A FeatureCollection
+        # with "features": null has no features (treat as empty, do not
+        # crash). A GeometryCollection carries "geometries", not features:
+        # check the coordinates in each geometry, but there are no
+        # per-geometry properties to check for navigation flags.
+        checks: list[tuple[dict | None, object]] = []
+        if "features" in doc:
+            for feature in (doc.get("features") or []):
+                if isinstance(feature, dict):
+                    checks.append((feature.get("properties"),
+                                   feature.get("geometry")))
+        elif doc.get("type") == "GeometryCollection":
+            for geometry in (doc.get("geometries") or []):
+                checks.append((None, geometry))
+        else:
+            # A single Feature (or a bare geometry-bearing doc).
+            checks.append((doc.get("properties"), doc.get("geometry")))
+        for props, geometry in checks:
+            if props is not None:
+                props = props or {}
+                if props.get("navigation_suitability") != 0:
+                    result.fail(label, None,
+                                "GeoJSON feature missing navigation_suitability: 0")
+                if props.get("live_tracking") is not False:
+                    result.fail(label, None,
+                                "GeoJSON feature missing live_tracking: false")
             pairs: list = []
-            _coord_pairs(feature.get("geometry"), pairs)
+            _coord_pairs(geometry, pairs)
             for lon, lat in pairs:
                 if not (-180 <= lon <= 180 and -90 <= lat <= 90):
                     result.fail(label, None,
@@ -868,6 +898,24 @@ def load_json_docs(files: list[Path]) -> dict[Path, object | None]:
         text = read_text(path)
         if text is None:
             docs[path] = None
+            continue
+        if path.suffix.lower() == ".jsonl":
+            # JSON Lines: one JSON document per non-empty line. Parse
+            # each line; a single malformed line makes the whole file
+            # unparseable (same as a malformed single-document JSON).
+            # The parsed lines are stored as a list, which
+            # walk_json_objects traverses line by line.
+            objs: list[object] = []
+            bad = False
+            for line in text.splitlines():
+                if not line.strip():
+                    continue
+                try:
+                    objs.append(json.loads(line))
+                except json.JSONDecodeError:
+                    bad = True
+                    break
+            docs[path] = None if bad else objs
             continue
         try:
             docs[path] = json.loads(text)

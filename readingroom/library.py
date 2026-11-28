@@ -1,7 +1,7 @@
-"""Reading-room library: load, search, and check the 577-post corpus.
+"""Reading-room library: load, search, and check the 580-post corpus.
 
-The library is the full public scrape of "jessrsd's Blog" (577
-published posts, 2023-12-22 to 2026-11-25), one markdown file per
+The library is the full public scrape of "jessrsd's Blog" (580
+published posts, 2023-12-22 to 2026-11-27), one markdown file per
 post under ``library/<year>/<month>/<post-id>-<slug>.md``, indexed
 by ``index.json`` at the repo root. Every entry carries provenance:
 ``source_id``, ``source_locator`` (the post URL), and

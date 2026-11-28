@@ -57,7 +57,6 @@ def yaml_quote(value):
 def build(scrape_path, root):
     """Build library/ and index.json under ``root`` from the scrape."""
     index, sections = parse_scrape(str(scrape_path))
-    library_dir = root / "library"
     entries = []
     seen_paths = set()
     for entry, sec in zip(index, sections):

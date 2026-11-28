@@ -16,6 +16,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+from pathlib import Path
 
 from .library import find_index, load_index, load_post, provenance_check, search
 
@@ -33,6 +34,9 @@ def main(argv=None):
 
     index_path = args.index
     entries = load_index(index_path)
+    # When --index points at an index.json elsewhere, resolve post
+    # paths against that index's directory, not the default repo root.
+    root = Path(index_path).resolve().parent if index_path else None
 
     if args.count:
         print(f"{len(entries)} posts indexed (index: {index_path or find_index()})")
@@ -44,7 +48,7 @@ def main(argv=None):
             print(f"    {entry['path']}")
     if args.show:
         try:
-            post = load_post(args.show, entries)
+            post = load_post(args.show, entries, root=root)
         except KeyError as exc:
             print(str(exc), file=sys.stderr)
             return 1
@@ -53,7 +57,7 @@ def main(argv=None):
         print()
         print(post["content"])
     if args.check:
-        report = provenance_check(entries)
+        report = provenance_check(entries, root=root)
         print(f"checked {report['checked']} entries")
         if report["ok"]:
             print("provenance check: OK")

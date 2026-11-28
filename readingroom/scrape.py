@@ -1,7 +1,7 @@
 """Parse the WordPress scrape file (docs/wordpress-posts.md).
 
-The scrape has three parts: a header, an index table (577 rows), and
-577 post sections, followed by an appendix ("## Notes on 40-hex
+The scrape has three parts: a header, an index table (580 rows), and
+580 post sections, followed by an appendix ("## Notes on 40-hex
 strings in quoted content" plus a linter note) which is not post
 content.
 

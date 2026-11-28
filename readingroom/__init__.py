@@ -1,4 +1,4 @@
-"""Reading-room library: the 577-post corpus of "jessrsd's Blog".
+"""Reading-room library: the 580-post corpus of "jessrsd's Blog".
 
 Public API: load_index, search, load_post, provenance_check,
 parse_front_matter, find_index.
